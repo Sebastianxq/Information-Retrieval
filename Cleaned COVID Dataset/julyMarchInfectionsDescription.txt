@@ -1,0 +1,1 @@
+The csv files in this directory contain COVID infection data for the months of july and march. The information is stored in the form of Date:NumInfections. Note that there is also an initial row that acts as the column name for each of the files

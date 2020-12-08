@@ -1,0 +1,4 @@
+Every row in this file represents the similarity between El Paso and every other city in the US in terms of daily COVID cases
+the closer to 1, the more similar the cities are.
+
+The list is sorted in descending order

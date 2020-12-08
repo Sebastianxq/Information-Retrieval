@@ -1,0 +1,8 @@
+Flights_dataset2_Description
+These datasets contain a list of all flights in the US for a given month. 
+Each row represents a flight. For each flight, the dataset includes the
+date of the flight, the airports of origin and destination, and the number
+of passengers in the flight. 
+
+The dataset contains additional information, however, I don't have the slightest
+idea of what the rest of the codes mean :/ Hopefully, we won't need them. 

@@ -1,0 +1,3339 @@
+Autauga - Alabama,0.9790193702632066
+Baldwin - Alabama,0.9325146738178743
+Barbour - Alabama,0.9654302581713958
+Bibb - Alabama,0.9654348679620816
+Blount - Alabama,0.9712939991464657
+Bullock - Alabama,0.9257099251177183
+Butler - Alabama,0.8758834666616258
+Calhoun - Alabama,0.9536169850301495
+Chambers - Alabama,0.9390455487900069
+Cherokee - Alabama,0.9631178177899562
+Chilton - Alabama,0.9641497090950971
+Choctaw - Alabama,0.8905627444453506
+Clarke - Alabama,0.8909277517950146
+Clay - Alabama,0.9568063512367939
+Cleburne - Alabama,0.9214477407033979
+Coffee - Alabama,0.968155212367491
+Colbert - Alabama,0.9688500845953083
+Conecuh - Alabama,0.9568130113376501
+Coosa - Alabama,0.9637534180309528
+Covington - Alabama,0.9566192677992121
+Crenshaw - Alabama,0.9731465170994594
+Cullman - Alabama,0.9795711067412775
+Dale - Alabama,0.9781872076386513
+Dallas - Alabama,0.9464250968281401
+DeKalb - Alabama,0.9809789632447055
+Elmore - Alabama,0.9778888952515712
+Escambia - Alabama,0.9484317956820099
+Etowah - Alabama,0.9723117222345746
+Fayette - Alabama,0.9760021527454388
+Franklin - Alabama,0.9303497248466862
+Geneva - Alabama,0.9594191282685921
+Greene - Alabama,0.8993370625077537
+Hale - Alabama,0.9417413396225186
+Henry - Alabama,0.9809103537973122
+Houston - Alabama,0.9682380987037751
+Jackson - Alabama,0.9728806373415064
+Jefferson - Alabama,0.9750677377727818
+Lamar - Alabama,0.9891585850259239
+Lauderdale - Alabama,0.9825765848626448
+Lawrence - Alabama,0.9537079416627483
+Lee - Alabama,0.9452980907094592
+Limestone - Alabama,0.9706891871235317
+Lowndes - Alabama,0.8426286758881314
+Macon - Alabama,0.9715274466296759
+Madison - Alabama,0.96905863682244
+Marengo - Alabama,0.9663866602098973
+Marion - Alabama,0.9798238194807269
+Marshall - Alabama,0.9518207005455512
+Mobile - Alabama,0.9498755913016941
+Monroe - Alabama,0.9597865513523273
+Montgomery - Alabama,0.9585783577119737
+Morgan - Alabama,0.9785121273204319
+Out of AL - Alabama,nan
+Perry - Alabama,0.9570431809646774
+Pickens - Alabama,0.9858462055227138
+Pike - Alabama,0.9690649175838839
+Randolph - Alabama,0.9437933995241874
+Russell - Alabama,0.950807676324718
+Shelby - Alabama,0.9765234918063519
+St. Clair - Alabama,0.9774229863461736
+Sumter - Alabama,0.8842605668053941
+Talladega - Alabama,0.9592203757590873
+Tallapoosa - Alabama,0.9335438520350405
+Tuscaloosa - Alabama,0.9633334491053076
+Unassigned - Alabama,0.089690108500844
+Walker - Alabama,0.9688267279165212
+Washington - Alabama,0.922155908182096
+Wilcox - Alabama,0.9323940777430271
+Winston - Alabama,0.9702002952388278
+Aleutians East - Alaska,0.8688206882802684
+Aleutians West - Alaska,0.9101750839021171
+Anchorage - Alaska,0.9791564377224976
+Bethel - Alaska,0.8679256041861361
+Bristol Bay - Alaska,nan
+Bristol Bay plus Lake and Peninsula - Alaska,0.9326946305658415
+Denali - Alaska,0.8418478728982874
+Dillingham - Alaska,0.8024480424859999
+Fairbanks North Star - Alaska,0.9623622969412643
+Haines - Alaska,0.9242930398546616
+Hoonah-Angoon - Alaska,nan
+Juneau - Alaska,0.9790328857240256
+Kenai Peninsula - Alaska,0.9865628018675887
+Ketchikan Gateway - Alaska,0.906193039735668
+Kodiak Island - Alaska,0.9229336662330845
+Kusilvak - Alaska,0.6078956467028811
+Matanuska-Susitna - Alaska,0.9813932908158053
+Nome - Alaska,0.9447651498382468
+North Slope - Alaska,0.8931750718465701
+Northwest Arctic - Alaska,0.9221275074398843
+Out of AK - Alaska,nan
+Petersburg - Alaska,0.8593139375813871
+Prince of Wales-Hyder - Alaska,0.8100094390811817
+Sitka - Alaska,0.9446344128722468
+Skagway - Alaska,0.5206066717354546
+Southeast Fairbanks - Alaska,0.9367012965429484
+Unassigned - Alaska,0.9616621162086253
+Valdez-Cordova - Alaska,0.9654635633774712
+Wrangell - Alaska,0.9352555789707003
+Yakutat - Alaska,0.9450483347563073
+Yukon-Koyukuk - Alaska,0.9446479591111916
+ - American Samoa,nan
+Apache - Arizona,0.901548522141726
+Cochise - Arizona,0.9393927233869303
+Coconino - Arizona,0.9550952905519028
+Gila - Arizona,0.9909073787657523
+Graham - Arizona,0.9861786874424184
+Greenlee - Arizona,0.9495683585438783
+La Paz - Arizona,0.9194094918503712
+Maricopa - Arizona,0.9405070446663907
+Mohave - Arizona,0.9603368028051185
+Navajo - Arizona,0.907813913449895
+Out of AZ - Arizona,nan
+Pima - Arizona,0.9682452499865035
+Pinal - Arizona,0.950261005469989
+Santa Cruz - Arizona,0.8940225106108405
+Unassigned - Arizona,0.11329022874655842
+Yavapai - Arizona,0.9593872823542963
+Yuma - Arizona,0.8911795228257959
+Arkansas - Arkansas,0.973720279690145
+Ashley - Arkansas,0.9560083560809073
+Baxter - Arkansas,0.9106001805810873
+Benton - Arkansas,0.9710682856873503
+Boone - Arkansas,0.9252794334386711
+Bradley - Arkansas,0.9668616917972563
+Calhoun - Arkansas,0.9578463334597405
+Carroll - Arkansas,0.987060902390437
+Chicot - Arkansas,0.9153772651436414
+Clark - Arkansas,0.950175961888663
+Clay - Arkansas,0.9736072129712561
+Cleburne - Arkansas,0.9728861198756272
+Cleveland - Arkansas,0.9568651867319116
+Columbia - Arkansas,0.9738567697908893
+Conway - Arkansas,0.98600738633635
+Craighead - Arkansas,0.9713737586898136
+Crawford - Arkansas,0.9722224204559181
+Crittenden - Arkansas,0.9683272245024926
+Cross - Arkansas,0.9734708455275574
+Dallas - Arkansas,0.9506341235819614
+Desha - Arkansas,0.9882864427644205
+Drew - Arkansas,0.9777514119882748
+Faulkner - Arkansas,0.9834325359642522
+Franklin - Arkansas,0.9400353475041642
+Fulton - Arkansas,0.8813313363427056
+Garland - Arkansas,0.9716711737503454
+Grant - Arkansas,0.970780102300635
+Greene - Arkansas,0.9723650423131828
+Hempstead - Arkansas,0.9901249076171701
+Hot Spring - Arkansas,0.9557376772760428
+Howard - Arkansas,0.9784678692072124
+Independence - Arkansas,0.9648533689921819
+Izard - Arkansas,0.8249422951523413
+Jackson - Arkansas,0.9154910371463131
+Jefferson - Arkansas,0.9685580030296692
+Johnson - Arkansas,0.9692255138902295
+Lafayette - Arkansas,0.978990379762972
+Lawrence - Arkansas,0.9568901774921517
+Lee - Arkansas,0.8822464586605312
+Lincoln - Arkansas,0.850362844031977
+Little River - Arkansas,0.9555797670955409
+Logan - Arkansas,0.9616338674281462
+Lonoke - Arkansas,0.9713688389407021
+Madison - Arkansas,0.9549320711202856
+Marion - Arkansas,0.9474383830797533
+Miller - Arkansas,0.9644476702337909
+Mississippi - Arkansas,0.9847073658311283
+Monroe - Arkansas,0.9478835499639755
+Montgomery - Arkansas,0.9119260741043904
+Nevada - Arkansas,0.950892003606734
+Newton - Arkansas,0.948135568338589
+Ouachita - Arkansas,0.956992117803908
+Out of AR - Arkansas,nan
+Perry - Arkansas,0.9856596722666924
+Phillips - Arkansas,0.9868196418507781
+Pike - Arkansas,0.9458726601433625
+Poinsett - Arkansas,0.9489641385683081
+Polk - Arkansas,0.9869877949613881
+Pope - Arkansas,0.9889171477785148
+Prairie - Arkansas,0.9845431042410028
+Pulaski - Arkansas,0.9891731309942279
+Randolph - Arkansas,0.9768826796518353
+Saline - Arkansas,0.9680214029017805
+Scott - Arkansas,0.9441902298279093
+Searcy - Arkansas,0.8966395216909534
+Sebastian - Arkansas,0.9766728991703064
+Sevier - Arkansas,0.9269905348283676
+Sharp - Arkansas,0.9420947340194304
+St. Francis - Arkansas,0.9222978688610437
+Stone - Arkansas,0.9222048076076371
+Unassigned - Arkansas,0.715636025359277
+Union - Arkansas,0.9735338311015119
+Van Buren - Arkansas,0.939473458566549
+Washington - Arkansas,0.978291712390764
+White - Arkansas,0.9604882850520827
+Woodruff - Arkansas,0.9432404819660014
+Yell - Arkansas,0.9288026883508003
+Alameda - California,0.9591775931569879
+Alpine - California,0.3961810212609086
+Amador - California,0.9464949195245703
+Butte - California,0.9223147682357692
+Calaveras - California,0.8198576035409135
+Colusa - California,0.9400893983972841
+Contra Costa - California,0.9739184126118664
+Del Norte - California,0.9589737200105464
+El Dorado - California,0.9498549701177953
+Fresno - California,0.9397413282084297
+Glenn - California,0.966781886465919
+Humboldt - California,0.9606926038265439
+Imperial - California,0.9341697200776132
+Inyo - California,0.9569321534454029
+Kern - California,0.9603009533977684
+Kings - California,0.94394505367167
+Lake - California,0.9518254409143733
+Lassen - California,0.8801826471839023
+Los Angeles - California,0.9518380801685851
+Madera - California,0.8967105527260232
+Marin - California,0.9376239975181555
+Mariposa - California,0.9415325818880006
+Mendocino - California,0.9383868958143036
+Merced - California,0.8955718432421234
+Modoc - California,0.763793392978033
+Mono - California,0.9133042198050267
+Monterey - California,0.9759897603708452
+Napa - California,0.9574521267187415
+Nevada - California,0.9699954968264134
+Orange - California,0.9513791495058893
+Out of CA - California,nan
+Placer - California,0.9717945664150632
+Plumas - California,0.9749010385486673
+Riverside - California,0.9541650139980526
+Sacramento - California,0.9738398226515309
+San Benito - California,0.9004078631732679
+San Bernardino - California,0.9434601345403391
+San Diego - California,0.9506508175953723
+San Francisco - California,0.9697433513911846
+San Joaquin - California,0.9634469050387944
+San Luis Obispo - California,0.9556426745024613
+San Mateo - California,0.964153412056041
+Santa Barbara - California,0.9600933414441599
+Santa Clara - California,0.9671736700989109
+Santa Cruz - California,0.9797908184308531
+Shasta - California,0.9057300668734489
+Sierra - California,0.6300250465718527
+Siskiyou - California,0.9224151535336286
+Solano - California,0.9399302672868255
+Sonoma - California,0.9792896707588337
+Stanislaus - California,0.895321432030044
+Sutter - California,0.9645607557686585
+Tehama - California,0.9847208701760853
+Trinity - California,0.9001893172485927
+Tulare - California,0.9714857742562569
+Tuolumne - California,0.9676857107964884
+Unassigned - California,-0.08663502313997436
+Ventura - California,0.945313677228651
+Yolo - California,0.9268489597185761
+Yuba - California,0.9267940784662225
+Adams - Colorado,0.9654384322104308
+Alamosa - Colorado,0.8831221091551529
+Arapahoe - Colorado,0.9341160160980219
+Archuleta - Colorado,0.9157939807402345
+Baca - Colorado,0.6256815737294312
+Bent - Colorado,0.9159367590408738
+Boulder - Colorado,0.9595066197370583
+Broomfield - Colorado,0.9668324172114888
+Chaffee - Colorado,0.9310702129327535
+Cheyenne - Colorado,0.9266593971152218
+Clear Creek - Colorado,0.9529903485568895
+Conejos - Colorado,0.9701284866019289
+Costilla - Colorado,0.8888087689937202
+Crowley - Colorado,0.7687108071332329
+Custer - Colorado,0.7425318172449691
+Delta - Colorado,0.9216041921251911
+Denver - Colorado,0.9424043596286318
+Dolores - Colorado,0.6787998536699358
+Douglas - Colorado,0.9808121459275919
+Eagle - Colorado,0.8966390054596566
+El Paso - Colorado,0.9818606053502121
+Elbert - Colorado,0.9127424141100955
+Fremont - Colorado,0.890963102319484
+Garfield - Colorado,0.9696104633302653
+Gilpin - Colorado,0.9367421358781318
+Grand - Colorado,0.9678883278722248
+Gunnison - Colorado,0.8248689103924709
+Hinsdale - Colorado,0.1578439761543667
+Huerfano - Colorado,0.9210170635454153
+Jackson - Colorado,0.852709225446529
+Jefferson - Colorado,0.9629678428714288
+Kiowa - Colorado,0.6178950705381216
+Kit Carson - Colorado,0.9434717738682906
+La Plata - Colorado,0.9654995497111346
+Lake - Colorado,0.960752899122461
+Larimer - Colorado,0.9797035917396549
+Las Animas - Colorado,0.9310770740929473
+Lincoln - Colorado,0.8205097666334017
+Logan - Colorado,0.8554606620082003
+Mesa - Colorado,0.9525964187636382
+Mineral - Colorado,0.7979772164617878
+Moffat - Colorado,0.9766206138849638
+Montezuma - Colorado,0.9369199405349922
+Montrose - Colorado,0.9293198210757199
+Morgan - Colorado,0.7392460394696332
+Otero - Colorado,0.9739564679065402
+Ouray - Colorado,0.9389121967685266
+Out of CO - Colorado,nan
+Park - Colorado,0.9519178480920241
+Phillips - Colorado,0.8384441798576809
+Pitkin - Colorado,0.9559888127023928
+Prowers - Colorado,0.9049780292821357
+Pueblo - Colorado,0.9757939981907329
+Rio Blanco - Colorado,0.7797178539456934
+Rio Grande - Colorado,0.89390099181288
+Routt - Colorado,0.95207334291177
+Saguache - Colorado,0.6465328580825991
+San Juan - Colorado,0.6699515569844008
+San Miguel - Colorado,0.8388083574776124
+Sedgwick - Colorado,0.9027940418450575
+Summit - Colorado,0.9148936045168731
+Teller - Colorado,0.969730834270164
+Unassigned - Colorado,-0.14687942446404786
+Washington - Colorado,0.8305417951324996
+Weld - Colorado,0.9043445228677871
+Yuma - Colorado,0.9131246611765564
+Fairfield - Connecticut,0.7258379014805594
+Hartford - Connecticut,0.8265095134913312
+Litchfield - Connecticut,0.7935518444794729
+Middlesex - Connecticut,0.8222360382455659
+New Haven - Connecticut,0.7663541453125663
+New London - Connecticut,0.9278750676344388
+Out of CT - Connecticut,nan
+Tolland - Connecticut,0.886301467884854
+Unassigned - Connecticut,-0.04813840178881519
+Windham - Connecticut,0.9327565836036213
+Kent - Delaware,0.904089522476171
+New Castle - Delaware,0.9456908211131649
+Out of DE - Delaware,nan
+Sussex - Delaware,0.8109755666605101
+Unassigned - Delaware,0.2656409172794227
+ - Diamond Princess,0.24642971972551453
+District of Columbia - District of Columbia,0.8631377073719801
+Out of DC - District of Columbia,nan
+Unassigned - District of Columbia,nan
+Alachua - Florida,0.9808608117193567
+Baker - Florida,0.9251012641696916
+Bay - Florida,0.9462526538412301
+Bradford - Florida,0.9113805346544659
+Brevard - Florida,0.9598989497669461
+Broward - Florida,0.9548327199999008
+Calhoun - Florida,0.957655374315447
+Charlotte - Florida,0.9756737236795452
+Citrus - Florida,0.9684988154043158
+Clay - Florida,0.9780962323395591
+Collier - Florida,0.9590700077915213
+Columbia - Florida,0.9449335145552832
+DeSoto - Florida,0.9385803304464067
+Dixie - Florida,0.9395914232741429
+Duval - Florida,0.9672855122193682
+Escambia - Florida,0.9620116093087612
+Flagler - Florida,0.9754542318708962
+Franklin - Florida,0.9480387420700876
+Gadsden - Florida,0.9464593683404398
+Gilchrist - Florida,0.9474628259729709
+Glades - Florida,0.9505400783012656
+Gulf - Florida,0.9466944656796955
+Hamilton - Florida,0.9484132519084536
+Hardee - Florida,0.9729563531445227
+Hendry - Florida,0.9315962406733806
+Hernando - Florida,0.9647539416926041
+Highlands - Florida,0.9527553224989882
+Hillsborough - Florida,0.9621411470422911
+Holmes - Florida,0.9442986538807552
+Indian River - Florida,0.9650211781150118
+Jackson - Florida,0.8856922266311872
+Jefferson - Florida,0.9561879401690166
+Lafayette - Florida,0.9003164206909829
+Lake - Florida,0.9585873910288938
+Lee - Florida,0.9626565692593088
+Leon - Florida,0.9704619316812999
+Levy - Florida,0.9562687707651407
+Liberty - Florida,0.9043014797320545
+Madison - Florida,0.943170371507736
+Manatee - Florida,0.9662531199037981
+Marion - Florida,0.9626213981105951
+Martin - Florida,0.9349095446322461
+Miami-Dade - Florida,0.9578917482134539
+Monroe - Florida,0.9561505222955214
+Nassau - Florida,0.9656657335995904
+Okaloosa - Florida,0.9818760214758473
+Okeechobee - Florida,0.9580990432573321
+Orange - Florida,0.9628116563959656
+Osceola - Florida,0.9658544522258448
+Out of FL - Florida,nan
+Palm Beach - Florida,0.9620096209675624
+Pasco - Florida,0.9575745516009764
+Pinellas - Florida,0.9525487947541799
+Polk - Florida,0.9655309121551445
+Putnam - Florida,0.9565779416665232
+Santa Rosa - Florida,0.9662634198387794
+Sarasota - Florida,0.9741036951401141
+Seminole - Florida,0.9528501932956872
+St. Johns - Florida,0.9755992731408716
+St. Lucie - Florida,0.9626432047607224
+Sumter - Florida,0.9613576246607078
+Suwannee - Florida,0.9419565653515984
+Taylor - Florida,0.950074360520224
+Unassigned - Florida,0.9314972344429351
+Union - Florida,0.9556986487408338
+Volusia - Florida,0.9701700263589028
+Wakulla - Florida,0.9680703193657567
+Walton - Florida,0.9720963731507826
+Washington - Florida,0.9617023766157667
+Appling - Georgia,0.9624577185582428
+Atkinson - Georgia,0.962357431713939
+Bacon - Georgia,0.9408150546357613
+Baker - Georgia,0.9174953349033121
+Baldwin - Georgia,0.9710701264231043
+Banks - Georgia,0.975755895275165
+Barrow - Georgia,0.9585028384286625
+Bartow - Georgia,0.9728496895599077
+Ben Hill - Georgia,0.970743817063527
+Berrien - Georgia,0.9442507709473535
+Bibb - Georgia,0.937850609123861
+Bleckley - Georgia,0.9633375701449816
+Brantley - Georgia,0.9855572556933887
+Brooks - Georgia,0.9617656168726507
+Bryan - Georgia,0.9636794542153542
+Bulloch - Georgia,0.9473302346663204
+Burke - Georgia,0.9677947388418563
+Butts - Georgia,0.8627240071388792
+Calhoun - Georgia,0.8545741558165871
+Camden - Georgia,0.973245264847896
+Candler - Georgia,0.9572155134053991
+Carroll - Georgia,0.9746299689597672
+Catoosa - Georgia,0.9664714595851085
+Charlton - Georgia,0.9562439937220989
+Chatham - Georgia,0.9693589210588044
+Chattahoochee - Georgia,0.963505432516792
+Chattooga - Georgia,0.9512547530853567
+Cherokee - Georgia,0.9760071571242851
+Clarke - Georgia,0.9396698160711767
+Clay - Georgia,0.872767328447726
+Clayton - Georgia,0.956389555091744
+Clinch - Georgia,0.9717354942142022
+Cobb - Georgia,0.9640168898948929
+Coffee - Georgia,0.9720206813413481
+Colquitt - Georgia,0.9382823350537957
+Columbia - Georgia,0.9554432625591059
+Cook - Georgia,0.9403320356290912
+Coweta - Georgia,0.9749493331318668
+Crawford - Georgia,0.9315104473408846
+Crisp - Georgia,0.9080008168535076
+Dade - Georgia,0.9418522078262963
+Dawson - Georgia,0.9525404056902125
+DeKalb - Georgia,0.9679075893007039
+Decatur - Georgia,0.9609563663453977
+Dodge - Georgia,0.9864952802119303
+Dooly - Georgia,0.8456951317003636
+Dougherty - Georgia,0.8386913238224838
+Douglas - Georgia,0.9609791372842944
+Early - Georgia,0.8800268073868172
+Echols - Georgia,0.7978054008424771
+Effingham - Georgia,0.9617274111742677
+Elbert - Georgia,0.9308517572520107
+Emanuel - Georgia,0.9221987863769574
+Evans - Georgia,0.959555730052922
+Fannin - Georgia,0.9733832660106532
+Fayette - Georgia,0.9729312415398956
+Floyd - Georgia,0.9651489136425244
+Forsyth - Georgia,0.9759307169425251
+Franklin - Georgia,0.9750431532962383
+Fulton - Georgia,0.9645374087340766
+Gilmer - Georgia,0.9557580940839331
+Glascock - Georgia,0.977932926325947
+Glynn - Georgia,0.9643492070995141
+Gordon - Georgia,0.9770959241953867
+Grady - Georgia,0.9686157380442777
+Greene - Georgia,0.962873564521184
+Gwinnett - Georgia,0.9658672840055118
+Habersham - Georgia,0.9440382788184568
+Hall - Georgia,0.9551523453811648
+Hancock - Georgia,0.8472756725103905
+Haralson - Georgia,0.9622549246386961
+Harris - Georgia,0.9483358699130899
+Hart - Georgia,0.9753003625064844
+Heard - Georgia,0.9586951343701359
+Henry - Georgia,0.9750921326620334
+Houston - Georgia,0.960854463772292
+Irwin - Georgia,0.9740821911158974
+Jackson - Georgia,0.9746380528067942
+Jasper - Georgia,0.9334438386327131
+Jeff Davis - Georgia,0.9635774177834957
+Jefferson - Georgia,0.9382057840931812
+Jenkins - Georgia,0.9697181477591909
+Johnson - Georgia,0.9639682273144388
+Jones - Georgia,0.9732062524285998
+Lamar - Georgia,0.9738635180809154
+Lanier - Georgia,0.8441089289031394
+Laurens - Georgia,0.9666773372143682
+Lee - Georgia,0.8487492231256155
+Liberty - Georgia,0.96418579613841
+Lincoln - Georgia,0.9600189938915072
+Long - Georgia,0.9764189124077447
+Lowndes - Georgia,0.9449457500824063
+Lumpkin - Georgia,0.956668203834909
+Macon - Georgia,0.8788370116048777
+Madison - Georgia,0.9674038704289016
+Marion - Georgia,0.9294816995126064
+McDuffie - Georgia,0.9652223197000107
+McIntosh - Georgia,0.9678234028756013
+Meriwether - Georgia,0.9581902992036486
+Miller - Georgia,0.9539078951367271
+Mitchell - Georgia,0.8795765311399877
+Monroe - Georgia,0.950569715786664
+Montgomery - Georgia,0.9788419818534992
+Morgan - Georgia,0.9586789795477021
+Murray - Georgia,0.9716163483852411
+Muscogee - Georgia,0.9600851729808193
+Newton - Georgia,0.9681165893318484
+Oconee - Georgia,0.9816462361808695
+Oglethorpe - Georgia,0.9067670005318286
+Out of GA - Georgia,0.8912967438152375
+Paulding - Georgia,0.9626903954757355
+Peach - Georgia,0.9702274029326462
+Pickens - Georgia,0.9670236837004133
+Pierce - Georgia,0.9641052418728795
+Pike - Georgia,0.9597774339442013
+Polk - Georgia,0.9514484921245756
+Pulaski - Georgia,0.9457148778108704
+Putnam - Georgia,0.9649782443568767
+Quitman - Georgia,0.8984636114709762
+Rabun - Georgia,0.9750667445052034
+Randolph - Georgia,0.8324637487379442
+Richmond - Georgia,0.9638978104949688
+Rockdale - Georgia,0.9717076770740232
+Schley - Georgia,0.9573041222508318
+Screven - Georgia,0.962860508577625
+Seminole - Georgia,0.9321710213373209
+Spalding - Georgia,0.9723062898827758
+Stephens - Georgia,0.9838190829274949
+Stewart - Georgia,0.8980395138120341
+Sumter - Georgia,0.8719622949635644
+Talbot - Georgia,0.9321036196170893
+Taliaferro - Georgia,0.9561827975249614
+Tattnall - Georgia,0.961046446002254
+Taylor - Georgia,0.955219462621042
+Telfair - Georgia,0.9758396755565595
+Terrell - Georgia,0.7466631074955086
+Thomas - Georgia,0.9468401197009063
+Tift - Georgia,0.9578871831696762
+Toombs - Georgia,0.9747616898222228
+Towns - Georgia,0.9691580428287015
+Treutlen - Georgia,0.9715277435417433
+Troup - Georgia,0.9210537151241239
+Turner - Georgia,0.872472666723136
+Twiggs - Georgia,0.9694427771183908
+Unassigned - Georgia,0.4155103866417533
+Union - Georgia,0.9451363004248196
+Upson - Georgia,0.885305863847959
+Walker - Georgia,0.9575003312027341
+Walton - Georgia,0.98561812843574
+Ware - Georgia,0.9539343437051065
+Warren - Georgia,0.9661617845843592
+Washington - Georgia,0.9667992643883146
+Wayne - Georgia,0.9525510947020719
+Webster - Georgia,0.8420631684920072
+Wheeler - Georgia,0.934876772272913
+White - Georgia,0.9697103333866873
+Whitfield - Georgia,0.9548979791689528
+Wilcox - Georgia,0.8244150169321376
+Wilkes - Georgia,0.9623312323974246
+Wilkinson - Georgia,0.9583222323342142
+Worth - Georgia,0.8715453519191153
+ - Grand Princess,0.09577242999908885
+ - Guam,0.8934459613075221
+Hawaii - Hawaii,0.8939648665730613
+Honolulu - Hawaii,0.9422832235562398
+Kalawao - Hawaii,nan
+Kauai - Hawaii,0.8548379185976289
+Maui - Hawaii,0.9460743874985414
+Out of HI - Hawaii,0.9514779097656122
+Unassigned - Hawaii,-0.09803158783818638
+Ada - Idaho,0.9466754546337983
+Adams - Idaho,0.9772915242544875
+Bannock - Idaho,0.9336823971371349
+Bear Lake - Idaho,0.9489581373380194
+Benewah - Idaho,0.9616520206960888
+Bingham - Idaho,0.9300689519605444
+Blaine - Idaho,0.7160775323259905
+Boise - Idaho,0.9374361140696597
+Bonner - Idaho,0.9636580208099121
+Bonneville - Idaho,0.9475207724977311
+Boundary - Idaho,0.9140077779570863
+Butte - Idaho,0.8215480863489589
+Camas - Idaho,0.804753493770413
+Canyon - Idaho,0.949981783034157
+Caribou - Idaho,0.8990869641947266
+Cassia - Idaho,0.9933926421599097
+Clark - Idaho,0.9221938762946212
+Clearwater - Idaho,0.8545843114125717
+Custer - Idaho,0.8937692721069368
+Elmore - Idaho,0.9547837030406621
+Franklin - Idaho,0.8949132671320306
+Fremont - Idaho,0.9285580421653434
+Gem - Idaho,0.9822261733193478
+Gooding - Idaho,0.9564733860077994
+Idaho - Idaho,0.7881894927947287
+Jefferson - Idaho,0.9503478920197438
+Jerome - Idaho,0.9275042433813704
+Kootenai - Idaho,0.9819540987276867
+Latah - Idaho,0.9116481138294275
+Lemhi - Idaho,0.9240784823501902
+Lewis - Idaho,0.792052800031407
+Lincoln - Idaho,0.9490453418353613
+Madison - Idaho,0.8293835103026761
+Minidoka - Idaho,0.9883943040206877
+Nez Perce - Idaho,0.9122102473250367
+Oneida - Idaho,0.9414392313744027
+Out of ID - Idaho,nan
+Owyhee - Idaho,0.9567674576458488
+Payette - Idaho,0.9407954921556636
+Power - Idaho,0.9268954866429036
+Shoshone - Idaho,0.9439096387089929
+Teton - Idaho,0.9656787326440639
+Twin Falls - Idaho,0.9633073548474437
+Unassigned - Idaho,0.10253565802921388
+Valley - Idaho,0.9494943476989968
+Washington - Idaho,0.9475454591232874
+Adams - Illinois,0.9721544457796116
+Alexander - Illinois,0.9207994322470845
+Bond - Illinois,0.9257768944269489
+Boone - Illinois,0.9606285066836934
+Brown - Illinois,0.8525017382173208
+Bureau - Illinois,0.9455731610904596
+Calhoun - Illinois,0.8428026747048794
+Carroll - Illinois,0.9368196647259847
+Cass - Illinois,0.953926155313677
+Champaign - Illinois,0.9620942506770906
+Christian - Illinois,0.9049229387853743
+Clark - Illinois,0.9716467822374435
+Clay - Illinois,0.9040760010602513
+Clinton - Illinois,0.9599434090292928
+Coles - Illinois,0.9565600876758091
+Cook - Illinois,0.895374134167114
+Crawford - Illinois,0.8522978095791639
+Cumberland - Illinois,0.9512489109369789
+De Witt - Illinois,0.895534370074427
+DeKalb - Illinois,0.9698197192385583
+Douglas - Illinois,0.9464631698520048
+DuPage - Illinois,0.9342937132011566
+Edgar - Illinois,0.9354412042644925
+Edwards - Illinois,0.9354338357394475
+Effingham - Illinois,0.9296070002605434
+Fayette - Illinois,0.90357471662022
+Ford - Illinois,0.9404692140865094
+Franklin - Illinois,0.9372077900712334
+Fulton - Illinois,0.8733558458478692
+Gallatin - Illinois,0.9740072857872062
+Greene - Illinois,0.9173770145523931
+Grundy - Illinois,0.9710560857437833
+Hamilton - Illinois,0.9519509730172678
+Hancock - Illinois,0.9259851308916038
+Hardin - Illinois,0.9250998085359974
+Henderson - Illinois,0.920512683198065
+Henry - Illinois,0.9626244839353503
+Iroquois - Illinois,0.9639835554617224
+Jackson - Illinois,0.9785701855254102
+Jasper - Illinois,0.9147720718491198
+Jefferson - Illinois,0.9646296642960573
+Jersey - Illinois,0.9455367149799276
+Jo Daviess - Illinois,0.9668854670067932
+Johnson - Illinois,0.9231046234492506
+Kane - Illinois,0.9113130890711945
+Kankakee - Illinois,0.9581097627874527
+Kendall - Illinois,0.9545040028452929
+Knox - Illinois,0.9666829980337175
+LaSalle - Illinois,0.959893745203639
+Lake - Illinois,0.9189649699487434
+Lawrence - Illinois,0.9251199120820636
+Lee - Illinois,0.9530956710000056
+Livingston - Illinois,0.9352985442445454
+Logan - Illinois,0.9453118226223598
+Macon - Illinois,0.9401982920055505
+Macoupin - Illinois,0.9269869801774957
+Madison - Illinois,0.9713274125301371
+Marion - Illinois,0.8969068170048413
+Marshall - Illinois,0.9337464835456164
+Mason - Illinois,0.9330384056045199
+Massac - Illinois,0.9604228501846621
+McDonough - Illinois,0.9318677566253809
+McHenry - Illinois,0.9705190679995088
+McLean - Illinois,0.9265742095309442
+Menard - Illinois,0.9309539954737889
+Mercer - Illinois,0.9123785761930037
+Monroe - Illinois,0.9715013381395032
+Montgomery - Illinois,0.9558812586387603
+Morgan - Illinois,0.9394136236954403
+Moultrie - Illinois,0.9400258227723235
+Ogle - Illinois,0.9739238375122683
+Out of IL - Illinois,-0.1715985340347097
+Peoria - Illinois,0.9742079995318259
+Perry - Illinois,0.9687635186950339
+Piatt - Illinois,0.9157765264503412
+Pike - Illinois,0.892629864782817
+Pope - Illinois,0.8751362649580186
+Pulaski - Illinois,0.969377760013969
+Putnam - Illinois,0.8499288272202175
+Randolph - Illinois,0.9595846405538455
+Richland - Illinois,0.8738833468319995
+Rock Island - Illinois,0.9803842420220183
+Saline - Illinois,0.9472555585111899
+Sangamon - Illinois,0.9704602881587688
+Schuyler - Illinois,0.9076914673157859
+Scott - Illinois,0.9150371555810111
+Shelby - Illinois,0.9223255904625604
+St. Clair - Illinois,0.9768759476425404
+Stark - Illinois,0.9003931035720922
+Stephenson - Illinois,0.9572047892228146
+Tazewell - Illinois,0.9485935788096577
+Unassigned - Illinois,0.630533686756299
+Union - Illinois,0.9825662874865457
+Vermilion - Illinois,0.8922302201928687
+Wabash - Illinois,0.959200643509019
+Warren - Illinois,0.9624451284476538
+Washington - Illinois,0.9413015925306982
+Wayne - Illinois,0.8999588338406189
+White - Illinois,0.9541444537185327
+Whiteside - Illinois,0.9471283254738966
+Will - Illinois,0.9507012567526417
+Williamson - Illinois,0.9565023540511544
+Winnebago - Illinois,0.9380779810939651
+Woodford - Illinois,0.9526342306655122
+Adams - Indiana,0.9580259291646347
+Allen - Indiana,0.9681430205639691
+Bartholomew - Indiana,0.9471413332379994
+Benton - Indiana,0.9429332989259436
+Blackford - Indiana,0.9230683082986944
+Boone - Indiana,0.9603416843296501
+Brown - Indiana,0.9794019731016756
+Carroll - Indiana,0.9610642238137616
+Cass - Indiana,0.7601247845828121
+Clark - Indiana,0.9838647251781122
+Clay - Indiana,0.9686843413671506
+Clinton - Indiana,0.9724282595666304
+Crawford - Indiana,0.9548117732366564
+Daviess - Indiana,0.9757699092289391
+DeKalb - Indiana,0.9481718448561078
+Dearborn - Indiana,0.9196056243432174
+Decatur - Indiana,0.8486243333348229
+Delaware - Indiana,0.9551560707013121
+Dubois - Indiana,0.9752905427103367
+Elkhart - Indiana,0.9679456397212505
+Fayette - Indiana,0.9598177813878911
+Floyd - Indiana,0.9763920730993381
+Fountain - Indiana,0.9368245015348982
+Franklin - Indiana,0.9455390502541471
+Fulton - Indiana,0.9668247951003207
+Gibson - Indiana,0.9586923041591295
+Grant - Indiana,0.9793408455951298
+Greene - Indiana,0.9512487875524158
+Hamilton - Indiana,0.9667408220188075
+Hancock - Indiana,0.9533960326034634
+Harrison - Indiana,0.971756361739983
+Hendricks - Indiana,0.9319647150805563
+Henry - Indiana,0.972067887049413
+Howard - Indiana,0.9616881112333124
+Huntington - Indiana,0.9606705005332867
+Jackson - Indiana,0.9459447462431965
+Jasper - Indiana,0.984486282781541
+Jay - Indiana,0.9327164889328565
+Jefferson - Indiana,0.9900537486299488
+Jennings - Indiana,0.9386818403018811
+Johnson - Indiana,0.9273679613847817
+Knox - Indiana,0.9244010026730625
+Kosciusko - Indiana,0.9676076656902861
+LaGrange - Indiana,0.9207182293384268
+LaPorte - Indiana,0.9763393405138034
+Lake - Indiana,0.9599708258704124
+Lawrence - Indiana,0.967772301551227
+Madison - Indiana,0.9548862312557782
+Marion - Indiana,0.9281298401491536
+Marshall - Indiana,0.9832500152432695
+Martin - Indiana,0.9174222798876341
+Miami - Indiana,0.9679084903742526
+Monroe - Indiana,0.9122858099127752
+Montgomery - Indiana,0.9318255112208891
+Morgan - Indiana,0.9620300564222167
+Newton - Indiana,0.9358568303665646
+Noble - Indiana,0.966235527832373
+Ohio - Indiana,0.9750650209497391
+Orange - Indiana,0.9258588593269369
+Out of IN - Indiana,nan
+Owen - Indiana,0.9704203174295493
+Parke - Indiana,0.946934733904836
+Perry - Indiana,0.9704245931082665
+Pike - Indiana,0.8990053552204391
+Porter - Indiana,0.9783238243563698
+Posey - Indiana,0.9529639898447442
+Pulaski - Indiana,0.934871985825743
+Putnam - Indiana,0.9742535970226099
+Randolph - Indiana,0.9530053302665283
+Ripley - Indiana,0.9594963790336368
+Rush - Indiana,0.9799558565365759
+Scott - Indiana,0.9749594395996414
+Shelby - Indiana,0.8818548139157681
+Spencer - Indiana,0.9672428318895858
+St. Joseph - Indiana,0.9688983190906946
+Starke - Indiana,0.9845793303570551
+Steuben - Indiana,0.9532613886851574
+Sullivan - Indiana,0.964459846334307
+Switzerland - Indiana,0.9633240543078581
+Tippecanoe - Indiana,0.9817735564306526
+Tipton - Indiana,0.9687950017879435
+Unassigned - Indiana,-0.08415211634136086
+Union - Indiana,0.9652124673135365
+Vanderburgh - Indiana,0.9792808815655558
+Vermillion - Indiana,0.9532954917694618
+Vigo - Indiana,0.9615358361694196
+Wabash - Indiana,0.9784325019354377
+Warren - Indiana,0.8614338736962651
+Warrick - Indiana,0.9673652511596534
+Washington - Indiana,0.9752603906655535
+Wayne - Indiana,0.9743537314795608
+Wells - Indiana,0.9845634110952037
+White - Indiana,0.922095540029211
+Whitley - Indiana,0.9460870792376657
+Adair - Iowa,0.9489414043637867
+Adams - Iowa,0.9061097713494748
+Allamakee - Iowa,0.8752885990315928
+Appanoose - Iowa,0.9461953095658509
+Audubon - Iowa,0.9233856986626934
+Benton - Iowa,0.9614510571832194
+Black Hawk - Iowa,0.9510535103887162
+Boone - Iowa,0.9788907474124054
+Bremer - Iowa,0.9751636834117555
+Buchanan - Iowa,0.9735704031774896
+Buena Vista - Iowa,0.8171484036640017
+Butler - Iowa,0.9746065733110298
+Calhoun - Iowa,0.9190152382716654
+Carroll - Iowa,0.9488766725058055
+Cass - Iowa,0.9301006205083813
+Cedar - Iowa,0.9638648492047955
+Cerro Gordo - Iowa,0.9846537181582415
+Cherokee - Iowa,0.9249294268843282
+Chickasaw - Iowa,0.9324889610412256
+Clarke - Iowa,0.9401434812295666
+Clay - Iowa,0.9825810777560686
+Clayton - Iowa,0.961735757313871
+Clinton - Iowa,0.9529057461291907
+Crawford - Iowa,0.9154947199386982
+Dallas - Iowa,0.9582079175575758
+Davis - Iowa,0.9642135573371267
+Decatur - Iowa,0.9235739725594843
+Delaware - Iowa,0.9187237247338023
+Des Moines - Iowa,0.9365093607491732
+Dickinson - Iowa,0.9378028318643769
+Dubuque - Iowa,0.9831518534922105
+Emmet - Iowa,0.9907402955608542
+Fayette - Iowa,0.9641932483216459
+Floyd - Iowa,0.962523775754625
+Franklin - Iowa,0.9659725925057194
+Fremont - Iowa,0.9204239026071102
+Greene - Iowa,0.949259647351471
+Grundy - Iowa,0.9564173641618984
+Guthrie - Iowa,0.9779052095628495
+Hamilton - Iowa,0.9474153038243721
+Hancock - Iowa,0.8618796048560875
+Hardin - Iowa,0.9683659107325204
+Harrison - Iowa,0.8896893822834687
+Henry - Iowa,0.9079857625079304
+Howard - Iowa,0.9557054094550326
+Humboldt - Iowa,0.9842607119263012
+Ida - Iowa,0.905948773794826
+Iowa - Iowa,0.9477603670306097
+Jackson - Iowa,0.9702370738580203
+Jasper - Iowa,0.9669594440544805
+Jefferson - Iowa,0.9813247051934504
+Johnson - Iowa,0.9563269361243716
+Jones - Iowa,0.9524709413543911
+Keokuk - Iowa,0.951283577557723
+Kossuth - Iowa,0.9030366860693286
+Lee - Iowa,0.9196082499010424
+Linn - Iowa,0.9800283851088396
+Louisa - Iowa,0.7659639806221692
+Lucas - Iowa,0.9667767844369772
+Lyon - Iowa,0.93570479068665
+Madison - Iowa,0.9778756278293097
+Mahaska - Iowa,0.9497633113895965
+Marion - Iowa,0.9379964673420306
+Marshall - Iowa,0.8989897527602118
+Mills - Iowa,0.9390962430313133
+Mitchell - Iowa,0.9362036145788765
+Monona - Iowa,0.9582286159421236
+Monroe - Iowa,0.9655477342837933
+Montgomery - Iowa,0.9535421307781302
+Muscatine - Iowa,0.924268899504254
+O'Brien - Iowa,0.9477421815389646
+Osceola - Iowa,0.9393644229450568
+Out of IA - Iowa,nan
+Page - Iowa,0.9333416221510245
+Palo Alto - Iowa,0.9669449781575606
+Plymouth - Iowa,0.964486975069618
+Pocahontas - Iowa,0.9025611720062982
+Polk - Iowa,0.9719973322372465
+Pottawattamie - Iowa,0.9887942755283035
+Poweshiek - Iowa,0.9598444691651034
+Ringgold - Iowa,0.9574772467046149
+Sac - Iowa,0.9487493627251409
+Scott - Iowa,0.9921421408356267
+Shelby - Iowa,0.9801319167871408
+Sioux - Iowa,0.9557928220911525
+Story - Iowa,0.9609344216154168
+Tama - Iowa,0.8690468172738328
+Taylor - Iowa,0.9453458553100338
+Unassigned - Iowa,0.04420130475940273
+Union - Iowa,0.9799040415027501
+Van Buren - Iowa,0.9044086797554778
+Wapello - Iowa,0.9273057363236712
+Warren - Iowa,0.9871954476963554
+Washington - Iowa,0.951904287926699
+Wayne - Iowa,0.8335800309788528
+Webster - Iowa,0.9861432361880378
+Winnebago - Iowa,0.9429038043385939
+Winneshiek - Iowa,0.959611200854034
+Woodbury - Iowa,0.9179440792791754
+Worth - Iowa,0.9486598861523243
+Wright - Iowa,0.9287797410838035
+Allen - Kansas,0.8165739479413818
+Anderson - Kansas,0.9047484423118797
+Atchison - Kansas,0.9235084216698946
+Barber - Kansas,0.8167218838906408
+Barton - Kansas,0.9339112808384906
+Bourbon - Kansas,0.94317616001943
+Brown - Kansas,0.941236672176457
+Butler - Kansas,0.9799830105117164
+Chase - Kansas,0.9330190014081423
+Chautauqua - Kansas,0.8568282374665939
+Cherokee - Kansas,0.939135236287008
+Cheyenne - Kansas,0.786209584246875
+Clark - Kansas,0.8666442841105746
+Clay - Kansas,0.9163399506068417
+Cloud - Kansas,0.9096256899331702
+Coffey - Kansas,0.9129061213371437
+Comanche - Kansas,0.9523238252292382
+Cowley - Kansas,0.9805129099381029
+Crawford - Kansas,0.9558362235881266
+Decatur - Kansas,0.7929114963002055
+Dickinson - Kansas,0.914015289758809
+Doniphan - Kansas,0.9043717332412105
+Douglas - Kansas,0.9550038031268681
+Edwards - Kansas,0.8970751032404826
+Elk - Kansas,0.4997927356634198
+Ellis - Kansas,0.8867611195420533
+Ellsworth - Kansas,0.7859807845320076
+Finney - Kansas,0.8530249121068448
+Ford - Kansas,0.8568055875990849
+Franklin - Kansas,0.9708799193808124
+Geary - Kansas,0.965791083670815
+Gove - Kansas,0.7939332381426719
+Graham - Kansas,0.9191167122055925
+Grant - Kansas,0.9612163574024468
+Gray - Kansas,0.9484395621620225
+Greeley - Kansas,0.5756607945603515
+Greenwood - Kansas,0.8912227020782971
+Hamilton - Kansas,0.9009649933124344
+Harper - Kansas,0.8399106818427597
+Harvey - Kansas,0.9679912341929231
+Haskell - Kansas,0.883820869683297
+Hodgeman - Kansas,0.9163744300594958
+Jackson - Kansas,0.8370054904765911
+Jefferson - Kansas,0.9492266318922944
+Jewell - Kansas,0.8843584211092963
+Johnson - Kansas,0.9795809406454579
+Kearny - Kansas,0.9349254731139993
+Kingman - Kansas,0.9212863922268453
+Kiowa - Kansas,0.8455954914001886
+Labette - Kansas,0.9801444039661054
+Lane - Kansas,0.87287384976069
+Leavenworth - Kansas,0.880679650937072
+Lincoln - Kansas,0.932193692862901
+Linn - Kansas,0.9629469052934876
+Logan - Kansas,0.747544085473507
+Lyon - Kansas,0.9530368048129084
+Marion - Kansas,0.8906253492840925
+Marshall - Kansas,0.8125842211401211
+McPherson - Kansas,0.981300097747697
+Meade - Kansas,0.9379873759351521
+Miami - Kansas,0.9549818022378609
+Mitchell - Kansas,0.9402662105069635
+Montgomery - Kansas,0.9508633038370051
+Morris - Kansas,0.9332558518309914
+Morton - Kansas,0.8849483962111648
+Nemaha - Kansas,0.8136938058437597
+Neosho - Kansas,0.8914591059271264
+Ness - Kansas,0.8304763945152738
+Norton - Kansas,0.6495551243158967
+Osage - Kansas,0.9529360726644613
+Osborne - Kansas,0.8420958423990386
+Ottawa - Kansas,0.9480736831143779
+Out of KS - Kansas,nan
+Pawnee - Kansas,0.8300906699486238
+Phillips - Kansas,0.9503421279308463
+Pottawatomie - Kansas,0.9620148800860884
+Pratt - Kansas,0.9714554651108865
+Rawlins - Kansas,0.7248324231947003
+Reno - Kansas,0.9455699396566668
+Republic - Kansas,0.9870399876673834
+Rice - Kansas,0.9570980720792963
+Riley - Kansas,0.9240013978232623
+Rooks - Kansas,0.8684390256878393
+Rush - Kansas,0.8044048378031807
+Russell - Kansas,0.8670611963263363
+Saline - Kansas,0.9841551927379352
+Scott - Kansas,0.9566955393928654
+Sedgwick - Kansas,0.9794577594636473
+Seward - Kansas,0.9058631357410616
+Shawnee - Kansas,0.9887134510146631
+Sheridan - Kansas,0.7622778157372881
+Sherman - Kansas,0.6716595595933097
+Smith - Kansas,0.8530394982413729
+Stafford - Kansas,0.8740196848619215
+Stanton - Kansas,0.8082781483570145
+Stevens - Kansas,0.9237095757343735
+Sumner - Kansas,0.9247130049050329
+Thomas - Kansas,0.8981448948664774
+Trego - Kansas,0.8861381906360329
+Unassigned - Kansas,nan
+Wabaunsee - Kansas,0.9129178765765836
+Wallace - Kansas,0.8356974309648064
+Washington - Kansas,0.8741429118269237
+Wichita - Kansas,0.7915629163659019
+Wilson - Kansas,0.8837818922124805
+Woodson - Kansas,0.7790481460270805
+Wyandotte - Kansas,0.9631366810021658
+Adair - Kentucky,0.8676354366397343
+Allen - Kentucky,0.9126928028941539
+Anderson - Kentucky,0.9404585997240342
+Ballard - Kentucky,0.9624556945823038
+Barren - Kentucky,0.9765207891160405
+Bath - Kentucky,0.9722451323146653
+Bell - Kentucky,0.9682267381061147
+Boone - Kentucky,0.9525568786912069
+Bourbon - Kentucky,0.9613877613118116
+Boyd - Kentucky,0.9566095656676288
+Boyle - Kentucky,0.8902278184737562
+Bracken - Kentucky,0.8519720051656001
+Breathitt - Kentucky,0.9476786229941363
+Breckinridge - Kentucky,0.979962452947182
+Bullitt - Kentucky,0.9666948482031744
+Butler - Kentucky,0.8146005632644164
+Caldwell - Kentucky,0.9468916703420039
+Calloway - Kentucky,0.9604898805581223
+Campbell - Kentucky,0.9697825369040262
+Carlisle - Kentucky,0.9698097334553185
+Carroll - Kentucky,0.855737593515487
+Carter - Kentucky,0.9546309721777688
+Casey - Kentucky,0.9333084644097558
+Christian - Kentucky,0.9392858902471758
+Clark - Kentucky,0.941342884114657
+Clay - Kentucky,0.9389892701507104
+Clinton - Kentucky,0.917457612383041
+Crittenden - Kentucky,0.88619225872297
+Cumberland - Kentucky,0.9061625505219107
+Daviess - Kentucky,0.9184549830532441
+Edmonson - Kentucky,0.882571325992619
+Elliott - Kentucky,0.6794687865805731
+Estill - Kentucky,0.8722842107708338
+Fayette - Kentucky,0.9144390624410454
+Fleming - Kentucky,0.9670848537952152
+Floyd - Kentucky,0.9589783013978983
+Franklin - Kentucky,0.9715687967537652
+Fulton - Kentucky,0.9807550113613568
+Gallatin - Kentucky,0.9182582243921507
+Garrard - Kentucky,0.9645311737638711
+Grant - Kentucky,0.9013204406973143
+Graves - Kentucky,0.9690545445977622
+Grayson - Kentucky,0.9527484266612495
+Green - Kentucky,0.9212980546753866
+Greenup - Kentucky,0.9368192190431848
+Hancock - Kentucky,0.9392234092816967
+Hardin - Kentucky,0.9514863755110567
+Harlan - Kentucky,0.9294572313537974
+Harrison - Kentucky,0.9771923745773609
+Hart - Kentucky,0.9704609366832639
+Henderson - Kentucky,0.9297764234331345
+Henry - Kentucky,0.9862539322124853
+Hickman - Kentucky,0.9729007473981686
+Hopkins - Kentucky,0.9327724188477293
+Jackson - Kentucky,0.9520386547015155
+Jefferson - Kentucky,0.9718674745753259
+Jessamine - Kentucky,0.9494361220961451
+Johnson - Kentucky,0.9544913754270528
+Kenton - Kentucky,0.9477039719403353
+Knott - Kentucky,0.8715983435350072
+Knox - Kentucky,0.9569338090781607
+Larue - Kentucky,0.9580684906998284
+Laurel - Kentucky,0.9676335656645797
+Lawrence - Kentucky,0.9516322916666105
+Lee - Kentucky,0.7240509718812447
+Leslie - Kentucky,0.9202677809331059
+Letcher - Kentucky,0.9140448955432969
+Lewis - Kentucky,0.8405398553564905
+Lincoln - Kentucky,0.986327412100991
+Livingston - Kentucky,0.9644551224974734
+Logan - Kentucky,0.9612023438473216
+Lyon - Kentucky,0.9261874758171724
+Madison - Kentucky,0.9029168920282521
+Magoffin - Kentucky,0.9366898064400531
+Marion - Kentucky,0.9836665467441017
+Marshall - Kentucky,0.9720823880879845
+Martin - Kentucky,0.9349643049524106
+Mason - Kentucky,0.9793891845682634
+McCracken - Kentucky,0.9639077754903824
+McCreary - Kentucky,0.9337317805837203
+McLean - Kentucky,0.9203633724461696
+Meade - Kentucky,0.8972005807861209
+Menifee - Kentucky,0.9521271136930083
+Mercer - Kentucky,0.9426425947333282
+Metcalfe - Kentucky,0.9785630543899297
+Monroe - Kentucky,0.9730601500086811
+Montgomery - Kentucky,0.9775860923211086
+Morgan - Kentucky,0.9558391700840521
+Muhlenberg - Kentucky,0.7529940483384856
+Nelson - Kentucky,0.9701259372635584
+Nicholas - Kentucky,0.9225087211167069
+Ohio - Kentucky,0.9671625683649484
+Oldham - Kentucky,0.964176792641196
+Out of KY - Kentucky,nan
+Owen - Kentucky,0.9187711848094625
+Owsley - Kentucky,0.9161024488690696
+Pendleton - Kentucky,0.9704934414926272
+Perry - Kentucky,0.985638983750647
+Pike - Kentucky,0.9618453911955375
+Powell - Kentucky,0.9068408303468705
+Pulaski - Kentucky,0.9544957660334734
+Robertson - Kentucky,0.88297766310878
+Rockcastle - Kentucky,0.9667458015903696
+Rowan - Kentucky,0.9415887205890487
+Russell - Kentucky,0.9406024388635864
+Scott - Kentucky,0.971470448342652
+Shelby - Kentucky,0.97295546740954
+Simpson - Kentucky,0.9333045625169196
+Spencer - Kentucky,0.9880713928507014
+Taylor - Kentucky,0.9706659459183233
+Todd - Kentucky,0.9022883076206807
+Trigg - Kentucky,0.9314488160548003
+Trimble - Kentucky,0.9633074110990043
+Unassigned - Kentucky,0.02926843470021967
+Union - Kentucky,0.8663030218851939
+Warren - Kentucky,0.9384202779288736
+Washington - Kentucky,0.9846465861437592
+Wayne - Kentucky,0.9448175552740724
+Webster - Kentucky,0.9517663283339104
+Whitley - Kentucky,0.9318429729307919
+Wolfe - Kentucky,0.9046471949583987
+Woodford - Kentucky,0.9212500679219862
+Acadia - Louisiana,0.9128546263091666
+Allen - Louisiana,0.9627354360526534
+Ascension - Louisiana,0.9331564528148637
+Assumption - Louisiana,0.8586840731671491
+Avoyelles - Louisiana,0.9768087796593569
+Beauregard - Louisiana,0.9193850118841438
+Bienville - Louisiana,0.9648424027180259
+Bossier - Louisiana,0.9673876677884311
+Caddo - Louisiana,0.960274797895167
+Calcasieu - Louisiana,0.9311492676696724
+Caldwell - Louisiana,0.969828813409774
+Cameron - Louisiana,0.8756446026054596
+Catahoula - Louisiana,0.9028347763366686
+Claiborne - Louisiana,0.9688058283367187
+Concordia - Louisiana,0.9746046524222394
+De Soto - Louisiana,0.9532620216879644
+East Baton Rouge - Louisiana,0.924015370135634
+East Carroll - Louisiana,0.8784364423372149
+East Feliciana - Louisiana,0.9341561106923431
+Evangeline - Louisiana,0.9646958005603323
+Franklin - Louisiana,0.9517426086110095
+Grant - Louisiana,0.9352397063452448
+Iberia - Louisiana,0.9433504123177517
+Iberville - Louisiana,0.8914121016107326
+Jackson - Louisiana,0.9827675686820236
+Jefferson - Louisiana,0.875137403836765
+Jefferson Davis - Louisiana,0.9442352944327745
+LaSalle - Louisiana,0.9609690769164319
+Lafayette - Louisiana,0.9192845624050394
+Lafourche - Louisiana,0.9470018352821757
+Lincoln - Louisiana,0.9843246933251502
+Livingston - Louisiana,0.9353390291386806
+Madison - Louisiana,0.9281066329818553
+Morehouse - Louisiana,0.9698518038758744
+Natchitoches - Louisiana,0.9840738448716475
+Orleans - Louisiana,0.8091532537501805
+Ouachita - Louisiana,0.9586330842893621
+Out of LA - Louisiana,nan
+Plaquemines - Louisiana,0.9410148123825888
+Pointe Coupee - Louisiana,0.9509529591203978
+Rapides - Louisiana,0.9372190551842106
+Red River - Louisiana,0.9684487412738998
+Richland - Louisiana,0.9712752454982567
+Sabine - Louisiana,0.9711472211797633
+St. Bernard - Louisiana,0.9092999256754062
+St. Charles - Louisiana,0.8816914032641331
+St. Helena - Louisiana,0.9576783861551349
+St. James - Louisiana,0.8842472869943399
+St. John the Baptist - Louisiana,0.8013030209249932
+St. Landry - Louisiana,0.9320818069992534
+St. Martin - Louisiana,0.9454616469422702
+St. Mary - Louisiana,0.9433504767185262
+St. Tammany - Louisiana,0.9495333959024478
+Tangipahoa - Louisiana,0.9515727499598776
+Tensas - Louisiana,0.947410697639527
+Terrebonne - Louisiana,0.9354024766358383
+Unassigned - Louisiana,0.45408078082396264
+Union - Louisiana,0.9521800497708512
+Vermilion - Louisiana,0.9416214208409799
+Vernon - Louisiana,0.9448212420201068
+Washington - Louisiana,0.953479988875124
+Webster - Louisiana,0.9624019548120928
+West Baton Rouge - Louisiana,0.9283938913839284
+West Carroll - Louisiana,0.9355355721958717
+West Feliciana - Louisiana,0.9301019678956475
+Winn - Louisiana,0.9491671269314439
+Androscoggin - Maine,0.9118807358206416
+Aroostook - Maine,0.9479199845650615
+Cumberland - Maine,0.8507282860802687
+Franklin - Maine,0.8022034153965811
+Hancock - Maine,0.9496591294187959
+Kennebec - Maine,0.8623907462405438
+Knox - Maine,0.8640417074764103
+Lincoln - Maine,0.9211009517437174
+Out of ME - Maine,nan
+Oxford - Maine,0.9365381321385114
+Penobscot - Maine,0.9180282170909116
+Piscataquis - Maine,0.8069181351792152
+Sagadahoc - Maine,0.9310080763207678
+Somerset - Maine,0.9273878340825481
+Unassigned - Maine,-0.10830907781393631
+Waldo - Maine,0.8394108408045484
+Washington - Maine,0.8879208874006654
+York - Maine,0.9539555232272043
+Allegany - Maryland,0.9554798473313982
+Anne Arundel - Maryland,0.944773291074751
+Baltimore - Maryland,0.9404037300567252
+Baltimore City - Maryland,0.9401335588742344
+Calvert - Maryland,0.9635479978443908
+Caroline - Maryland,0.9418531982429366
+Carroll - Maryland,0.8561792695796203
+Cecil - Maryland,0.9535727205551698
+Charles - Maryland,0.9399435332070083
+Dorchester - Maryland,0.9824967021513369
+Frederick - Maryland,0.8974120569858625
+Garrett - Maryland,0.9872703311407677
+Harford - Maryland,0.9563133162719736
+Howard - Maryland,0.9314429690005877
+Kent - Maryland,0.8713090130967829
+Montgomery - Maryland,0.8906242756347106
+Out of MD - Maryland,nan
+Prince George's - Maryland,0.8907109890854557
+Queen Anne's - Maryland,0.9740096188519989
+Somerset - Maryland,0.9697270610781745
+St. Mary's - Maryland,0.9370291128938046
+Talbot - Maryland,0.9777111087082353
+Unassigned - Maryland,0.07749959490813955
+Washington - Maryland,0.9770539598088205
+Wicomico - Maryland,0.931351382511682
+Worcester - Maryland,0.9660914940205583
+Barnstable - Massachusetts,0.7836237077213088
+Berkshire - Massachusetts,0.7334717751817583
+Bristol - Massachusetts,0.810732117188119
+Dukes - Massachusetts,nan
+Dukes and Nantucket - Massachusetts,0.9535806230992189
+Essex - Massachusetts,0.7976949288846552
+Franklin - Massachusetts,0.7412868988274905
+Hampden - Massachusetts,0.7959228738577679
+Hampshire - Massachusetts,0.8337835827894957
+Middlesex - Massachusetts,0.765049409691103
+Nantucket - Massachusetts,nan
+Norfolk - Massachusetts,0.7590004010392466
+Out of MA - Massachusetts,nan
+Plymouth - Massachusetts,0.7496186040839203
+Suffolk - Massachusetts,0.7891073765060517
+Unassigned - Massachusetts,0.9853573556351514
+Worcester - Massachusetts,0.7817718405085112
+Alcona - Michigan,0.8597399573115041
+Alger - Michigan,0.7640808165167717
+Allegan - Michigan,0.9734547438402094
+Alpena - Michigan,0.7681660059567335
+Antrim - Michigan,0.9513376069765137
+Arenac - Michigan,0.8270382904098087
+Baraga - Michigan,0.8363525917034129
+Barry - Michigan,0.9699439638992369
+Bay - Michigan,0.951808195917855
+Benzie - Michigan,0.8714015573797634
+Berrien - Michigan,0.9360027743484403
+Branch - Michigan,0.9732969516859495
+Calhoun - Michigan,0.9641816933071937
+Cass - Michigan,0.9645813007615338
+Charlevoix - Michigan,0.924296556595334
+Cheboygan - Michigan,0.9571077981883067
+Chippewa - Michigan,0.9192089015204061
+Clare - Michigan,0.915867527935988
+Clinton - Michigan,0.9761476883002113
+Crawford - Michigan,0.882805757611147
+Delta - Michigan,0.8613097524207103
+Dickinson - Michigan,0.829745263408955
+Eaton - Michigan,0.9448979919895474
+Emmet - Michigan,0.9578086680702649
+Federal Correctional Institution (FCI) - Michigan,0.7243012653151367
+Genesee - Michigan,0.9117424829425022
+Gladwin - Michigan,0.9756656897777598
+Gogebic - Michigan,0.9269267723179367
+Grand Traverse - Michigan,0.9591346892141493
+Gratiot - Michigan,0.9551274598701229
+Hillsdale - Michigan,0.8918939385849803
+Houghton - Michigan,0.8311045549336828
+Huron - Michigan,0.9202347862721978
+Ingham - Michigan,0.9517821807748247
+Ionia - Michigan,0.9277238266370462
+Iosco - Michigan,0.8901091406282411
+Iron - Michigan,0.788947667019969
+Isabella - Michigan,0.9346832844452602
+Jackson - Michigan,0.9496673257197228
+Kalamazoo - Michigan,0.9650303842717777
+Kalkaska - Michigan,0.9636513048216657
+Kent - Michigan,0.9463269563393264
+Keweenaw - Michigan,0.6626491515785703
+Lake - Michigan,0.9749536491566753
+Lapeer - Michigan,0.9707640321583544
+Leelanau - Michigan,0.9889420567728953
+Lenawee - Michigan,0.965255086151959
+Livingston - Michigan,0.9460749441395557
+Luce - Michigan,0.5247364271544254
+Mackinac - Michigan,0.9146034877282408
+Macomb - Michigan,0.9268266824336184
+Manistee - Michigan,0.942656626393686
+Marquette - Michigan,0.9040561449601873
+Mason - Michigan,0.9772590573051758
+Mecosta - Michigan,0.8884755051541928
+Menominee - Michigan,0.9374129205941353
+Michigan Department of Corrections (MDOC) - Michigan,0.8473937942393279
+Midland - Michigan,0.9614117384859445
+Missaukee - Michigan,0.9290998337060841
+Monroe - Michigan,0.9545828378682694
+Montcalm - Michigan,0.9617378017449407
+Montmorency - Michigan,0.8915078803607753
+Muskegon - Michigan,0.9476346822903396
+Newaygo - Michigan,0.9537994927370688
+Oakland - Michigan,0.9004316334765782
+Oceana - Michigan,0.9255514845462517
+Ogemaw - Michigan,0.9529089144958013
+Ontonagon - Michigan,0.9013476882743283
+Osceola - Michigan,0.9900358614531439
+Oscoda - Michigan,0.9317203051320198
+Otsego - Michigan,0.8384749543142488
+Ottawa - Michigan,0.9712558287746159
+Out of MI - Michigan,0.7006332601337317
+Presque Isle - Michigan,0.8611524922225553
+Roscommon - Michigan,0.9737120933397737
+Saginaw - Michigan,0.9326102389660108
+Sanilac - Michigan,0.9232709963607761
+Schoolcraft - Michigan,0.8265671620080077
+Shiawassee - Michigan,0.897993213565465
+St. Clair - Michigan,0.9151875764667138
+St. Joseph - Michigan,0.9908217036751635
+Tuscola - Michigan,0.9223601355106836
+Unassigned - Michigan,0.0410372083510927
+Van Buren - Michigan,0.9845102976330921
+Washtenaw - Michigan,0.9474268252858224
+Wayne - Michigan,0.8540847938271621
+Wexford - Michigan,0.9814292563540181
+Aitkin - Minnesota,0.9497529011570764
+Anoka - Minnesota,0.9780223557001932
+Becker - Minnesota,0.9612713661769552
+Beltrami - Minnesota,0.9448680124852417
+Benton - Minnesota,0.9662540475633319
+Big Stone - Minnesota,0.9239855214035609
+Blue Earth - Minnesota,0.9757609030654482
+Brown - Minnesota,0.967545044591539
+Carlton - Minnesota,0.9336116289404108
+Carver - Minnesota,0.9849091197991029
+Cass - Minnesota,0.9352290568088927
+Chippewa - Minnesota,0.9635506761098849
+Chisago - Minnesota,0.93625447301076
+Clay - Minnesota,0.925375595790852
+Clearwater - Minnesota,0.8403462488139261
+Cook - Minnesota,0.9310654217868058
+Cottonwood - Minnesota,0.9037661921481014
+Crow Wing - Minnesota,0.9555181773884446
+Dakota - Minnesota,0.9752989212713015
+Dodge - Minnesota,0.9693819984281801
+Douglas - Minnesota,0.9329707014994194
+Faribault - Minnesota,0.9836870584989265
+Fillmore - Minnesota,0.9420029051602126
+Freeborn - Minnesota,0.9535935343284139
+Goodhue - Minnesota,0.9806251118395768
+Grant - Minnesota,0.972579272624847
+Hennepin - Minnesota,0.960675241393926
+Houston - Minnesota,0.9620560547089572
+Hubbard - Minnesota,0.8353233833592153
+Isanti - Minnesota,0.9635895686988432
+Itasca - Minnesota,0.9254854419700995
+Jackson - Minnesota,0.9457972598163146
+Kanabec - Minnesota,0.9387665962100907
+Kandiyohi - Minnesota,0.9492195341893127
+Kittson - Minnesota,0.849158731593677
+Koochiching - Minnesota,0.8795113603486273
+Lac qui Parle - Minnesota,0.84999189544595
+Lake - Minnesota,0.9380704296848423
+Lake of the Woods - Minnesota,0.8180618619700988
+Le Sueur - Minnesota,0.9644644152023886
+Lincoln - Minnesota,0.9409276151164765
+Lyon - Minnesota,0.9730380180419804
+Mahnomen - Minnesota,0.9577484992997993
+Marshall - Minnesota,0.9450138166212174
+Martin - Minnesota,0.9372656536362216
+McLeod - Minnesota,0.9706967120344094
+Meeker - Minnesota,0.9063834751805133
+Mille Lacs - Minnesota,0.9089234578259373
+Morrison - Minnesota,0.8777975827306514
+Mower - Minnesota,0.9032416939350943
+Murray - Minnesota,0.9804991211226606
+Nicollet - Minnesota,0.9636717840058479
+Nobles - Minnesota,0.7818608720626334
+Norman - Minnesota,0.9703499181362918
+Olmsted - Minnesota,0.9725818332492087
+Otter Tail - Minnesota,0.961965379321903
+Out of MN - Minnesota,nan
+Pennington - Minnesota,0.9805932311387417
+Pine - Minnesota,0.9114191730593765
+Pipestone - Minnesota,0.9603780954499306
+Polk - Minnesota,0.9193219483270434
+Pope - Minnesota,0.9484509088419597
+Ramsey - Minnesota,0.9680763421033116
+Red Lake - Minnesota,0.8888382185533931
+Redwood - Minnesota,0.8994204037697611
+Renville - Minnesota,0.949215618981653
+Rice - Minnesota,0.9350218524065971
+Rock - Minnesota,0.9381957528925816
+Roseau - Minnesota,0.9240025332207892
+Scott - Minnesota,0.9824362943233225
+Sherburne - Minnesota,0.9865016057158691
+Sibley - Minnesota,0.9484091496455596
+St. Louis - Minnesota,0.9276731134527197
+Stearns - Minnesota,0.9319095421610963
+Steele - Minnesota,0.9715890011688346
+Stevens - Minnesota,0.8681595763699653
+Swift - Minnesota,0.940732436639625
+Todd - Minnesota,0.9045019527870088
+Traverse - Minnesota,0.9229511153485188
+Unassigned - Minnesota,0.2076779914139572
+Wabasha - Minnesota,0.8993185591325286
+Wadena - Minnesota,0.8747927826738873
+Waseca - Minnesota,0.9138514993466935
+Washington - Minnesota,0.9905974592803184
+Watonwan - Minnesota,0.9705626035703911
+Wilkin - Minnesota,0.9593951488200707
+Winona - Minnesota,0.9446896295062985
+Wright - Minnesota,0.9751862523751298
+Yellow Medicine - Minnesota,0.9299269832347531
+Adams - Mississippi,0.976277612687383
+Alcorn - Mississippi,0.9749043680903151
+Amite - Mississippi,0.9858271644588523
+Attala - Mississippi,0.9338117768722393
+Benton - Mississippi,0.9841092899603636
+Bolivar - Mississippi,0.9203989117765103
+Calhoun - Mississippi,0.9750440862123071
+Carroll - Mississippi,0.9415139124441122
+Chickasaw - Mississippi,0.969195482796586
+Choctaw - Mississippi,0.9648969952132456
+Claiborne - Mississippi,0.9118664910233527
+Clarke - Mississippi,0.9818602972749624
+Clay - Mississippi,0.9761205236602348
+Coahoma - Mississippi,0.9617958236863886
+Copiah - Mississippi,0.9568924522128659
+Covington - Mississippi,0.9521081303000243
+DeSoto - Mississippi,0.974759882441866
+Forrest - Mississippi,0.9786777541193135
+Franklin - Mississippi,0.9747721259952268
+George - Mississippi,0.9684856859139361
+Greene - Mississippi,0.9875991343526705
+Grenada - Mississippi,0.9525057715647482
+Hancock - Mississippi,0.984728100041985
+Harrison - Mississippi,0.9786473135412137
+Hinds - Mississippi,0.9672095096370266
+Holmes - Mississippi,0.9283370091147071
+Humphreys - Mississippi,0.9663624737133859
+Issaquena - Mississippi,0.9100733459707137
+Itawamba - Mississippi,0.9615641099613682
+Jackson - Mississippi,0.9844623556558304
+Jasper - Mississippi,0.9451667415733764
+Jefferson - Mississippi,0.9589477331876809
+Jefferson Davis - Mississippi,0.9734610839538629
+Jones - Mississippi,0.9660334719410772
+Kemper - Mississippi,0.9000348833299672
+Lafayette - Mississippi,0.9700041097055057
+Lamar - Mississippi,0.9874267164907782
+Lauderdale - Mississippi,0.9505063208310123
+Lawrence - Mississippi,0.899497877916257
+Leake - Mississippi,0.9275672512898855
+Lee - Mississippi,0.9837832016734573
+Leflore - Mississippi,0.9744893029565137
+Lincoln - Mississippi,0.9783243635514525
+Lowndes - Mississippi,0.9804538409086088
+Madison - Mississippi,0.9696994502540445
+Marion - Mississippi,0.9686219068704361
+Marshall - Mississippi,0.9861399411694299
+Monroe - Mississippi,0.9820031700878327
+Montgomery - Mississippi,0.9721230406656338
+Neshoba - Mississippi,0.9024604334344565
+Newton - Mississippi,0.9471240202002285
+Noxubee - Mississippi,0.945247100095649
+Oktibbeha - Mississippi,0.9762175232339433
+Out of MS - Mississippi,nan
+Panola - Mississippi,0.9704126298448941
+Pearl River - Mississippi,0.9793543544770993
+Perry - Mississippi,0.9651875486335112
+Pike - Mississippi,0.9717369164179146
+Pontotoc - Mississippi,0.9799348038824746
+Prentiss - Mississippi,0.976228996573073
+Quitman - Mississippi,0.972900467605085
+Rankin - Mississippi,0.9827683344029882
+Scott - Mississippi,0.8785302046078309
+Sharkey - Mississippi,0.9483468326249537
+Simpson - Mississippi,0.9743573801060013
+Smith - Mississippi,0.9605823589319146
+Stone - Mississippi,0.9748222259607779
+Sunflower - Mississippi,0.9721614685960871
+Tallahatchie - Mississippi,0.9163732694197897
+Tate - Mississippi,0.9812667962875176
+Tippah - Mississippi,0.9761181527207365
+Tishomingo - Mississippi,0.9748332109799254
+Tunica - Mississippi,0.9547420919271039
+Unassigned - Mississippi,0.07548840429958772
+Union - Mississippi,0.9796282167055872
+Walthall - Mississippi,0.945110267769548
+Warren - Mississippi,0.9669922505496468
+Washington - Mississippi,0.975855205298867
+Wayne - Mississippi,0.9350679779201039
+Webster - Mississippi,0.9651804033780323
+Wilkinson - Mississippi,0.9377676598754505
+Winston - Mississippi,0.9564579504671674
+Yalobusha - Mississippi,0.9617146305679335
+Yazoo - Mississippi,0.952513105316223
+Adair - Missouri,0.9444162222073929
+Andrew - Missouri,0.9461305571548112
+Atchison - Missouri,0.9448107035582037
+Audrain - Missouri,0.9450367202718517
+Barry - Missouri,0.9860479211920505
+Barton - Missouri,0.9206446535655621
+Bates - Missouri,0.9311407474447949
+Benton - Missouri,0.9322751289848212
+Bollinger - Missouri,0.8849985383878656
+Boone - Missouri,0.9370170307694314
+Buchanan - Missouri,0.9571820253215968
+Butler - Missouri,0.9534582173042219
+Caldwell - Missouri,0.9293313558361762
+Callaway - Missouri,0.9328818507608614
+Camden - Missouri,0.9447144937836661
+Cape Girardeau - Missouri,0.9623899392595204
+Carroll - Missouri,0.9814017602198095
+Carter - Missouri,0.8913732053656592
+Cass - Missouri,0.9752290205664762
+Cedar - Missouri,0.9093397417299609
+Chariton - Missouri,0.8988511945573838
+Christian - Missouri,0.926496815546487
+Clark - Missouri,0.937978777207006
+Clay - Missouri,0.9857950670367122
+Clinton - Missouri,0.9332855772907469
+Cole - Missouri,0.9373685534083526
+Cooper - Missouri,0.945297563914144
+Crawford - Missouri,0.9165545639591097
+Dade - Missouri,0.8952408111479503
+Dallas - Missouri,0.9511499339277956
+Daviess - Missouri,0.850684260273834
+DeKalb - Missouri,0.8976011909508146
+Dent - Missouri,0.8780352109823778
+Douglas - Missouri,0.948861439607753
+Dunklin - Missouri,0.9599462364680137
+Franklin - Missouri,0.9586944275425007
+Gasconade - Missouri,0.906862729524487
+Gentry - Missouri,0.9676351474756911
+Greene - Missouri,0.936345332499184
+Grundy - Missouri,0.8936563963613368
+Harrison - Missouri,0.9547963181788462
+Henry - Missouri,0.941955707530381
+Hickory - Missouri,0.9132430222439633
+Holt - Missouri,0.8864380542263282
+Howard - Missouri,0.9490173288017171
+Howell - Missouri,0.9106803818829401
+Iron - Missouri,0.9242681126005494
+Jackson - Missouri,0.9804182637378703
+Jasper - Missouri,0.9805377602873914
+Jefferson - Missouri,0.9563312529987948
+Johnson - Missouri,0.9641525247222908
+Kansas City - Missouri,0.9790703218113115
+Knox - Missouri,0.950299408074055
+Laclede - Missouri,0.9347026873460145
+Lafayette - Missouri,0.9409442025939226
+Lawrence - Missouri,0.9503227152784783
+Lewis - Missouri,0.9373752953440201
+Lincoln - Missouri,0.9691088902248675
+Linn - Missouri,0.9196343107262224
+Livingston - Missouri,0.8599791666182097
+Macon - Missouri,0.9539655501316608
+Madison - Missouri,0.8948176822699354
+Maries - Missouri,0.9210792251120719
+Marion - Missouri,0.9354026253693504
+McDonald - Missouri,0.8515778080880193
+Mercer - Missouri,0.943157715125101
+Miller - Missouri,0.931485103177088
+Mississippi - Missouri,0.9798160984259141
+Moniteau - Missouri,0.9527299274050545
+Monroe - Missouri,0.9451546701345139
+Montgomery - Missouri,0.890361453939659
+Morgan - Missouri,0.9030737691942763
+New Madrid - Missouri,0.9672732264235178
+Newton - Missouri,0.979481910558319
+Nodaway - Missouri,0.9309065348018161
+Oregon - Missouri,0.8933822797097899
+Osage - Missouri,0.8871874785731981
+Out of MO - Missouri,nan
+Ozark - Missouri,0.8722872640384565
+Pemiscot - Missouri,0.9737508071874856
+Perry - Missouri,0.9485712277997033
+Pettis - Missouri,0.9586381298241192
+Phelps - Missouri,0.9208845780712309
+Pike - Missouri,0.965838263880092
+Platte - Missouri,0.9828909420004078
+Polk - Missouri,0.9423728849825055
+Pulaski - Missouri,0.9244528645617655
+Putnam - Missouri,0.9587809677624651
+Ralls - Missouri,0.8980817582029242
+Randolph - Missouri,0.9025748546584302
+Ray - Missouri,0.9227978957489568
+Reynolds - Missouri,0.9484232528023231
+Ripley - Missouri,0.9191618831418347
+Saline - Missouri,0.9526905468321335
+Schuyler - Missouri,0.9241311764595318
+Scotland - Missouri,0.9348960613158048
+Scott - Missouri,0.9707152420614773
+Shannon - Missouri,0.9162400516000072
+Shelby - Missouri,0.9649280234712541
+St. Charles - Missouri,0.9813821365294499
+St. Clair - Missouri,0.9051784443580412
+St. Francois - Missouri,0.9265009172619751
+St. Louis - Missouri,0.9786140050256311
+St. Louis City - Missouri,0.9554568085750572
+Ste. Genevieve - Missouri,0.9357487537314866
+Stoddard - Missouri,0.96176884795193
+Stone - Missouri,0.9479835373043192
+Sullivan - Missouri,0.8981871863005266
+Taney - Missouri,0.9705954917211509
+Texas - Missouri,0.892861710384477
+Unassigned - Missouri,0.06905235301785083
+Vernon - Missouri,0.9150460753825196
+Warren - Missouri,0.9699626615631277
+Washington - Missouri,0.9283462211085112
+Wayne - Missouri,0.9079085554590326
+Webster - Missouri,0.9027397465714634
+Worth - Missouri,0.9038943904691015
+Wright - Missouri,0.8794381116458811
+Beaverhead - Montana,0.8509754669412835
+Big Horn - Montana,0.9610344796976685
+Blaine - Montana,0.6789547169534478
+Broadwater - Montana,0.8518011582571046
+Carbon - Montana,0.9800231865236658
+Carter - Montana,0.6301377045425047
+Cascade - Montana,0.8778796618726534
+Chouteau - Montana,0.8276709135173245
+Custer - Montana,0.9188927233754758
+Daniels - Montana,0.6680667746841218
+Dawson - Montana,0.8832883539460933
+Deer Lodge - Montana,0.8006947194735002
+Fallon - Montana,0.6878350564304009
+Fergus - Montana,0.8552064347277138
+Flathead - Montana,0.8895721315064552
+Gallatin - Montana,0.9796001039364223
+Garfield - Montana,0.791547796549689
+Glacier - Montana,0.8464286450330343
+Golden Valley - Montana,0.6147675662349321
+Granite - Montana,0.9298358395887105
+Hill - Montana,0.830124100056427
+Jefferson - Montana,0.9163633322576271
+Judith Basin - Montana,0.8153674841340381
+Lake - Montana,0.9048958687101298
+Lewis and Clark - Montana,0.9154746717974114
+Liberty - Montana,0.8501362283132939
+Lincoln - Montana,0.9068947405922937
+Madison - Montana,0.9533799135383415
+McCone - Montana,0.8600361608360886
+Meagher - Montana,0.710308484125451
+Mineral - Montana,0.7966005074930476
+Missoula - Montana,0.8897371662141932
+Musselshell - Montana,0.7872122664682875
+Out of MT - Montana,nan
+Park - Montana,0.9456817520508143
+Petroleum - Montana,0.6368392913781852
+Phillips - Montana,0.9090504865120691
+Pondera - Montana,0.8105135196769868
+Powder River - Montana,0.7604326117335163
+Powell - Montana,0.701105132519372
+Prairie - Montana,0.7173924186028813
+Ravalli - Montana,0.9248054285214562
+Richland - Montana,0.9043272354771651
+Roosevelt - Montana,0.8015731008657749
+Rosebud - Montana,0.8867273599671456
+Sanders - Montana,0.8346597015549098
+Sheridan - Montana,0.7635957199449958
+Silver Bow - Montana,0.9225655626383775
+Stillwater - Montana,0.8727867996227738
+Sweet Grass - Montana,0.8928098516333243
+Teton - Montana,0.891998359901716
+Toole - Montana,0.830016333017315
+Treasure - Montana,0.7143386833026979
+Unassigned - Montana,0.08625873458114622
+Valley - Montana,0.8363525489363781
+Wheatland - Montana,0.6738147772831269
+Wibaux - Montana,0.8122204577527625
+Yellowstone - Montana,0.9519285920793958
+Adams - Nebraska,0.9196192619561288
+Antelope - Nebraska,0.8840114482449892
+Arthur - Nebraska,0.7079151899742843
+Banner - Nebraska,0.6818402372340422
+Blaine - Nebraska,0.5074231972617915
+Boone - Nebraska,0.886758227541624
+Box Butte - Nebraska,0.8364488774950956
+Boyd - Nebraska,0.8275264707608239
+Brown - Nebraska,0.8089710267934491
+Buffalo - Nebraska,0.9629571660192021
+Burt - Nebraska,0.9753041081452996
+Butler - Nebraska,0.9096687192301293
+Cass - Nebraska,0.9893958744022644
+Cedar - Nebraska,0.9447268453018014
+Chase - Nebraska,0.7611309695661175
+Cherry - Nebraska,0.8129582933399639
+Cheyenne - Nebraska,0.9220401144151134
+Clay - Nebraska,0.9519414122749562
+Colfax - Nebraska,0.7332126505022334
+Cuming - Nebraska,0.9462582935327005
+Custer - Nebraska,0.8961494523890737
+Dakota - Nebraska,0.8012770954014494
+Dawes - Nebraska,0.8662424583858375
+Dawson - Nebraska,0.7826240748557463
+Deuel - Nebraska,0.8707955589694107
+Dixon - Nebraska,0.8719187049375288
+Dodge - Nebraska,0.9436069295534129
+Douglas - Nebraska,0.9774081611498933
+Dundy - Nebraska,0.9031356875094407
+Fillmore - Nebraska,0.9646364583761013
+Franklin - Nebraska,0.8925214090975604
+Frontier - Nebraska,0.7733826200400126
+Furnas - Nebraska,0.8852653988144374
+Gage - Nebraska,0.9226196233928174
+Garden - Nebraska,0.9045175170132878
+Garfield - Nebraska,0.8873822728334911
+Gosper - Nebraska,0.9428949179208672
+Grant - Nebraska,0.51284836395411
+Greeley - Nebraska,0.9102050195313562
+Hall - Nebraska,0.773783074287258
+Hamilton - Nebraska,0.9541059797433185
+Harlan - Nebraska,0.8072311263002708
+Hayes - Nebraska,0.5572078084302594
+Hitchcock - Nebraska,0.743337176890069
+Holt - Nebraska,0.8234102593578567
+Hooker - Nebraska,0.8625102465823411
+Howard - Nebraska,0.8899528618238208
+Jefferson - Nebraska,0.9129959126968173
+Johnson - Nebraska,0.9087151103177846
+Kearney - Nebraska,0.9447199081749815
+Keith - Nebraska,0.891530631836148
+Keya Paha - Nebraska,0.6838087762471019
+Kimball - Nebraska,0.8810214678511781
+Knox - Nebraska,0.914035625634751
+Lancaster - Nebraska,0.9843846588920231
+Lincoln - Nebraska,0.9275307055531119
+Logan - Nebraska,0.7832943540222009
+Loup - Nebraska,0.7536272320792209
+Madison - Nebraska,0.961915470037412
+McPherson - Nebraska,0.10040884136116872
+Merrick - Nebraska,0.956037121844893
+Morrill - Nebraska,0.9273523148936285
+Nance - Nebraska,0.8165763597939315
+Nemaha - Nebraska,0.9385035079529138
+Nuckolls - Nebraska,0.7944124938977115
+Otoe - Nebraska,0.9601256922771321
+Out of NE - Nebraska,nan
+Pawnee - Nebraska,0.8630410061618627
+Perkins - Nebraska,0.9411061554752516
+Phelps - Nebraska,0.9021109182912809
+Pierce - Nebraska,0.9422421124030825
+Platte - Nebraska,0.9110852903469404
+Polk - Nebraska,0.881467701846165
+Red Willow - Nebraska,0.7998621449356523
+Richardson - Nebraska,0.8469500477209368
+Rock - Nebraska,0.8215971068639398
+Saline - Nebraska,0.8198497214118667
+Sarpy - Nebraska,0.9921053877501131
+Saunders - Nebraska,0.9488179124982759
+Scotts Bluff - Nebraska,0.9436253043422177
+Seward - Nebraska,0.9752162693927047
+Sheridan - Nebraska,0.8894905372349893
+Sherman - Nebraska,0.9218053027517166
+Sioux - Nebraska,0.9249862958063939
+Stanton - Nebraska,0.9473893737234906
+Thayer - Nebraska,0.9694067054269958
+Thomas - Nebraska,0.8476372980604068
+Thurston - Nebraska,0.9655566594163335
+Unassigned - Nebraska,0.47560547167002964
+Valley - Nebraska,0.9053669383177075
+Washington - Nebraska,0.9678726741129181
+Wayne - Nebraska,0.8928117244969817
+Webster - Nebraska,0.7748824875367981
+Wheeler - Nebraska,0.7039857126889519
+York - Nebraska,0.917271817278891
+Carson City - Nevada,0.9744341570899299
+Churchill - Nevada,0.8958331439769456
+Clark - Nevada,0.9702351297227556
+Douglas - Nevada,0.9855712804170312
+Elko - Nevada,0.987057875940115
+Esmeralda - Nevada,nan
+Eureka - Nevada,0.889666074662864
+Humboldt - Nevada,0.867023248861561
+Lander - Nevada,0.9570317307680902
+Lincoln - Nevada,0.7362151852783227
+Lyon - Nevada,0.9836626231212116
+Mineral - Nevada,0.6143094012317731
+Nye - Nevada,0.9689673632267848
+Out of NV - Nevada,nan
+Pershing - Nevada,0.9445149066279421
+Storey - Nevada,0.7383448928521408
+Unassigned - Nevada,-0.09751503230628854
+Washoe - Nevada,0.9827361824477979
+White Pine - Nevada,0.8694390629491089
+Belknap - New Hampshire,0.956771263014596
+Carroll - New Hampshire,0.89007517196291
+Cheshire - New Hampshire,0.9578598282373788
+Coos - New Hampshire,0.9288291192747296
+Grafton - New Hampshire,0.919945291257341
+Hillsborough - New Hampshire,0.8796533483410179
+Merrimack - New Hampshire,0.8948430091228511
+Out of NH - New Hampshire,nan
+Rockingham - New Hampshire,0.8685012254563742
+Strafford - New Hampshire,0.9155126565486366
+Sullivan - New Hampshire,0.9537032401582342
+Unassigned - New Hampshire,-0.08322440575694029
+Atlantic - New Jersey,0.8854803122798833
+Bergen - New Jersey,0.7186795761508372
+Burlington - New Jersey,0.8480607939576101
+Camden - New Jersey,0.842229881522748
+Cape May - New Jersey,0.8533461994429865
+Cumberland - New Jersey,0.8288505118902719
+Essex - New Jersey,0.7233991738507713
+Gloucester - New Jersey,0.9197044814900139
+Hudson - New Jersey,0.6781037566883614
+Hunterdon - New Jersey,0.7970054558956803
+Mercer - New Jersey,0.7420812657795428
+Middlesex - New Jersey,0.7372005954209949
+Monmouth - New Jersey,0.8096634573548868
+Morris - New Jersey,0.7121779432227223
+Ocean - New Jersey,0.8335700726931675
+Out of NJ - New Jersey,nan
+Passaic - New Jersey,0.6938899346605817
+Salem - New Jersey,0.8528496573399749
+Somerset - New Jersey,0.7403482822312865
+Sussex - New Jersey,0.7671567855493282
+Unassigned - New Jersey,0.06846814783945654
+Union - New Jersey,0.6810934444862774
+Warren - New Jersey,0.7217479052111937
+Bernalillo - New Mexico,0.9761755244723507
+Catron - New Mexico,0.6795924441909331
+Chaves - New Mexico,0.9579694499666729
+Cibola - New Mexico,0.9422661941643387
+Colfax - New Mexico,0.8063523686407315
+Curry - New Mexico,0.9873039583822766
+De Baca - New Mexico,0.23747768875209357
+Dona Ana - New Mexico,0.9922608256233518
+Eddy - New Mexico,0.9531514839973968
+Grant - New Mexico,0.979978622600567
+Guadalupe - New Mexico,0.8804312067208682
+Harding - New Mexico,0.4896546616130215
+Hidalgo - New Mexico,0.9217496777048083
+Lea - New Mexico,0.9809550178591318
+Lincoln - New Mexico,0.9797407240215417
+Los Alamos - New Mexico,0.9782621813187077
+Luna - New Mexico,0.9734471120400805
+McKinley - New Mexico,0.8212057944321395
+Mora - New Mexico,0.9459075001238674
+Otero - New Mexico,0.9680515691170208
+Out of NM - New Mexico,nan
+Quay - New Mexico,0.9120792846943724
+Rio Arriba - New Mexico,0.9248207720936743
+Roosevelt - New Mexico,0.9451471466623231
+San Juan - New Mexico,0.8443109065877609
+San Miguel - New Mexico,0.9389674261290829
+Sandoval - New Mexico,0.9323717584061197
+Santa Fe - New Mexico,0.9903975432919211
+Sierra - New Mexico,0.9757831038391451
+Socorro - New Mexico,0.8887120454666847
+Taos - New Mexico,0.9732604993317633
+Torrance - New Mexico,0.8509156664935696
+Unassigned - New Mexico,0.8500472257282483
+Union - New Mexico,0.8478390087672276
+Valencia - New Mexico,0.9858719628120025
+Albany - New York,0.8602508425704274
+Allegany - New York,0.8802406777471694
+Bronx - New York,0.6866166265948648
+Broome - New York,0.9661844830176423
+Cattaraugus - New York,0.9586578394557977
+Cayuga - New York,0.9530238619588316
+Chautauqua - New York,0.9727874594902652
+Chemung - New York,0.8334535533930831
+Chenango - New York,0.9277394401806391
+Clinton - New York,0.894495848500111
+Columbia - New York,0.8320004855188182
+Cortland - New York,0.9022198502874211
+Delaware - New York,0.8738349769185139
+Dutchess - New York,0.7592978938946536
+Erie - New York,0.8927302925268372
+Essex - New York,0.9129749945107556
+Franklin - New York,0.9536720789979808
+Fulton - New York,0.8451568796736103
+Genesee - New York,0.8468768739567812
+Greene - New York,0.8614920726564558
+Hamilton - New York,0.805877424441563
+Herkimer - New York,0.9535020257019738
+Jefferson - New York,0.8874702728019966
+Kings - New York,0.7228267613154299
+Lewis - New York,0.8800093851041433
+Livingston - New York,0.8938111535760889
+Madison - New York,0.8213551258565532
+Monroe - New York,0.9087791745078377
+Montgomery - New York,0.9200807666091643
+Nassau - New York,0.6678847824748251
+New York - New York,0.7282918165287124
+Niagara - New York,0.8639328636781203
+Oneida - New York,0.9009198323295622
+Onondaga - New York,0.9135727868065484
+Ontario - New York,0.9211034686212951
+Orange - New York,0.7054733184367993
+Orleans - New York,0.8257955975598346
+Oswego - New York,0.9551952063862895
+Otsego - New York,0.9244849330425782
+Out of NY - New York,nan
+Putnam - New York,0.7547830138957412
+Queens - New York,0.6845877847106993
+Rensselaer - New York,0.9040732974764797
+Richmond - New York,0.6855791563548128
+Rockland - New York,0.6988047576456128
+Saratoga - New York,0.9156163154420456
+Schenectady - New York,0.9044865172131838
+Schoharie - New York,0.8542550564167266
+Schuyler - New York,0.9157367817327985
+Seneca - New York,0.8802923245794203
+St. Lawrence - New York,0.8488651217264273
+Steuben - New York,0.792428304862589
+Suffolk - New York,0.6727277009433192
+Sullivan - New York,0.7147460861923619
+Tioga - New York,0.9343436111849139
+Tompkins - New York,0.9419086517514558
+Ulster - New York,0.7807160027492244
+Unassigned - New York,0.07711109968709298
+Warren - New York,0.826801580540885
+Washington - New York,0.7641095720531972
+Wayne - New York,0.9539906908634104
+Westchester - New York,0.6505107975223102
+Wyoming - New York,0.8503562322275238
+Yates - New York,0.919043001546593
+Alamance - North Carolina,0.9826840006870852
+Alexander - North Carolina,0.9845679519684303
+Alleghany - North Carolina,0.9528129380871522
+Anson - North Carolina,0.9752626568477958
+Ashe - North Carolina,0.9544645291091725
+Avery - North Carolina,0.9223670007521113
+Beaufort - North Carolina,0.9693733831112152
+Bertie - North Carolina,0.9765724721842874
+Bladen - North Carolina,0.9754956126570049
+Brunswick - North Carolina,0.9663278241854649
+Buncombe - North Carolina,0.9831357436964809
+Burke - North Carolina,0.9497376732838939
+Cabarrus - North Carolina,0.9726304428210616
+Caldwell - North Carolina,0.9824768879601132
+Camden - North Carolina,0.9715942434286218
+Carteret - North Carolina,0.9699099361802822
+Caswell - North Carolina,0.9746349619781081
+Catawba - North Carolina,0.9905366082761605
+Chatham - North Carolina,0.9292956480644966
+Cherokee - North Carolina,0.9570286940607072
+Chowan - North Carolina,0.9519070954185876
+Clay - North Carolina,0.985759048002518
+Cleveland - North Carolina,0.9776866468763855
+Columbus - North Carolina,0.9553619667538044
+Craven - North Carolina,0.9853205446836354
+Cumberland - North Carolina,0.977638438857249
+Currituck - North Carolina,0.9671803078663282
+Dare - North Carolina,0.9716122980301272
+Davidson - North Carolina,0.9797283626217899
+Davie - North Carolina,0.9781344451765911
+Duplin - North Carolina,0.8992766280181403
+Durham - North Carolina,0.9513519920089948
+Edgecombe - North Carolina,0.971451719417663
+Forsyth - North Carolina,0.9668073465100377
+Franklin - North Carolina,0.9773653273426103
+Gaston - North Carolina,0.9888360751154428
+Gates - North Carolina,0.9550449158351664
+Graham - North Carolina,0.9140537359203755
+Granville - North Carolina,0.9440284165647717
+Greene - North Carolina,0.9638517503758252
+Guilford - North Carolina,0.980731283015374
+Halifax - North Carolina,0.9726223926240376
+Harnett - North Carolina,0.9658292543637133
+Haywood - North Carolina,0.9138487037313562
+Henderson - North Carolina,0.9755517069967637
+Hertford - North Carolina,0.9700397006214803
+Hoke - North Carolina,0.974868172710766
+Hyde - North Carolina,0.9457899933292198
+Iredell - North Carolina,0.9741691649974484
+Jackson - North Carolina,0.9948780539102027
+Johnston - North Carolina,0.9744111629724722
+Jones - North Carolina,0.9458071692990289
+Lee - North Carolina,0.9519335027114072
+Lenoir - North Carolina,0.978349283230755
+Lincoln - North Carolina,0.9821900858615334
+Macon - North Carolina,0.932011887597112
+Madison - North Carolina,0.9627071316618757
+Martin - North Carolina,0.9862124298555189
+McDowell - North Carolina,0.983919942863987
+Mecklenburg - North Carolina,0.9566386469068018
+Mitchell - North Carolina,0.9696560290626659
+Montgomery - North Carolina,0.9740797643325659
+Moore - North Carolina,0.9772976538398459
+Nash - North Carolina,0.9674991853152726
+New Hanover - North Carolina,0.9732134754865278
+Northampton - North Carolina,0.9668490146610672
+Onslow - North Carolina,0.982392537873228
+Orange - North Carolina,0.9733169742072103
+Out of NC - North Carolina,nan
+Pamlico - North Carolina,0.9401380932738447
+Pasquotank - North Carolina,0.98115159553944
+Pender - North Carolina,0.9790715034828821
+Perquimans - North Carolina,0.9700153658378676
+Person - North Carolina,0.9751870836587812
+Pitt - North Carolina,0.9668876137646343
+Polk - North Carolina,0.9564829290556347
+Randolph - North Carolina,0.9704887221824658
+Richmond - North Carolina,0.979856261546952
+Robeson - North Carolina,0.9790639939578529
+Rockingham - North Carolina,0.968818313416104
+Rowan - North Carolina,0.9703858445411835
+Rutherford - North Carolina,0.9903905871879597
+Sampson - North Carolina,0.9565057193188518
+Scotland - North Carolina,0.9451625554357126
+Stanly - North Carolina,0.982027173553393
+Stokes - North Carolina,0.9932310713151649
+Surry - North Carolina,0.9787323638838914
+Swain - North Carolina,0.9822873046742253
+Transylvania - North Carolina,0.9710456450025754
+Tyrrell - North Carolina,0.9438305989041624
+Unassigned - North Carolina,0.00882099930918434
+Union - North Carolina,0.9713767612075341
+Vance - North Carolina,0.9230362754213406
+Wake - North Carolina,0.9790542065398863
+Warren - North Carolina,0.9633300743584365
+Washington - North Carolina,0.9759945503108036
+Watauga - North Carolina,0.9463450219953904
+Wayne - North Carolina,0.9514171491559353
+Wilkes - North Carolina,0.9351922530190375
+Wilson - North Carolina,0.9820725891978203
+Yadkin - North Carolina,0.9803720519016589
+Yancey - North Carolina,0.8374681321005556
+Adams - North Dakota,0.7971667177485199
+Barnes - North Dakota,0.9210465693970905
+Benson - North Dakota,0.9053025592865789
+Billings - North Dakota,0.8587421905708056
+Bottineau - North Dakota,0.8375046680161035
+Bowman - North Dakota,0.854473706581216
+Burke - North Dakota,0.960144081567187
+Burleigh - North Dakota,0.9478116949857711
+Cass - North Dakota,0.9621154752963962
+Cavalier - North Dakota,0.9746949223102738
+Dickey - North Dakota,0.7551672330136608
+Divide - North Dakota,0.7674330074471477
+Dunn - North Dakota,0.9054843293724582
+Eddy - North Dakota,0.8745304915824357
+Emmons - North Dakota,0.813160724256795
+Foster - North Dakota,0.8797621149533716
+Golden Valley - North Dakota,0.8641189290563982
+Grand Forks - North Dakota,0.9563499981889895
+Grant - North Dakota,0.8087820396601795
+Griggs - North Dakota,0.9568811380003517
+Hettinger - North Dakota,0.8831315359016635
+Kidder - North Dakota,0.9389688981826365
+LaMoure - North Dakota,0.8529824872626571
+Logan - North Dakota,0.8295257152045128
+McHenry - North Dakota,0.8691827555111927
+McIntosh - North Dakota,0.8782977734798082
+McKenzie - North Dakota,0.9221887754382995
+McLean - North Dakota,0.9205389667274686
+Mercer - North Dakota,0.8386945336874652
+Morton - North Dakota,0.93550421377864
+Mountrail - North Dakota,0.9646232014062016
+Nelson - North Dakota,0.8873126767967919
+Oliver - North Dakota,0.8440348363699127
+Out of ND - North Dakota,nan
+Pembina - North Dakota,0.8917255958573004
+Pierce - North Dakota,0.9139421646158886
+Ramsey - North Dakota,0.9138662754507431
+Ransom - North Dakota,0.9139046718594216
+Renville - North Dakota,0.8410495083008185
+Richland - North Dakota,0.9623462120476152
+Rolette - North Dakota,0.9466230180884038
+Sargent - North Dakota,0.8702813170260822
+Sheridan - North Dakota,0.8939573282860254
+Sioux - North Dakota,0.948515324675149
+Slope - North Dakota,0.7799053035512586
+Stark - North Dakota,0.9051881401635591
+Steele - North Dakota,0.950253907992248
+Stutsman - North Dakota,0.9169336607219358
+Towner - North Dakota,0.7988719969318534
+Traill - North Dakota,0.9409654076610661
+Unassigned - North Dakota,nan
+Walsh - North Dakota,0.9194758190220391
+Ward - North Dakota,0.9004816707982529
+Wells - North Dakota,0.915401902047367
+Williams - North Dakota,0.9159075718026501
+ - Northern Mariana Islands,0.918623007230054
+Adams - Ohio,0.9767974079264401
+Allen - Ohio,0.9649428235547566
+Ashland - Ohio,0.9592686777991157
+Ashtabula - Ohio,0.9024919816269514
+Athens - Ohio,0.9464321051394522
+Auglaize - Ohio,0.9683586035830893
+Belmont - Ohio,0.8327328349107217
+Brown - Ohio,0.9511953252182741
+Butler - Ohio,0.9758188820867636
+Carroll - Ohio,0.9251507545912642
+Champaign - Ohio,0.9786541457697063
+Clark - Ohio,0.985304013394938
+Clermont - Ohio,0.9895118217784329
+Clinton - Ohio,0.9843068247635572
+Columbiana - Ohio,0.9189439936642132
+Coshocton - Ohio,0.9825740009437958
+Crawford - Ohio,0.9521937700383053
+Cuyahoga - Ohio,0.9580757016632603
+Darke - Ohio,0.9660300625673562
+Defiance - Ohio,0.9666181191033267
+Delaware - Ohio,0.9762488737058519
+Erie - Ohio,0.9422233603380908
+Fairfield - Ohio,0.9758330276141784
+Fayette - Ohio,0.957247955680132
+Franklin - Ohio,0.9703391327252874
+Fulton - Ohio,0.9619050313118477
+Gallia - Ohio,0.9617968282171847
+Geauga - Ohio,0.9411447858865448
+Greene - Ohio,0.9666374036181559
+Guernsey - Ohio,0.9748002633700791
+Hamilton - Ohio,0.9715931254023608
+Hancock - Ohio,0.9754073982129946
+Hardin - Ohio,0.9082397113015995
+Harrison - Ohio,0.930177800533298
+Henry - Ohio,0.9466996952000493
+Highland - Ohio,0.9694616865041766
+Hocking - Ohio,0.906372698800237
+Holmes - Ohio,0.9691546373638869
+Huron - Ohio,0.971356161978272
+Jackson - Ohio,0.9390054893037587
+Jefferson - Ohio,0.9802404640545858
+Knox - Ohio,0.9491062172581861
+Lake - Ohio,0.9736898931921267
+Lawrence - Ohio,0.9613942944094458
+Licking - Ohio,0.984926164039426
+Logan - Ohio,0.9818066081430372
+Lorain - Ohio,0.9493598321974777
+Lucas - Ohio,0.959704110034713
+Madison - Ohio,0.954565165117299
+Mahoning - Ohio,0.9272728333006603
+Marion - Ohio,0.7066359971095939
+Medina - Ohio,0.9721400344770542
+Meigs - Ohio,0.9248596886626063
+Mercer - Ohio,0.9787243230772051
+Miami - Ohio,0.973875732492267
+Monroe - Ohio,0.8585699020762771
+Montgomery - Ohio,0.9669942436308082
+Morgan - Ohio,0.9608980720549283
+Morrow - Ohio,0.9435837392212821
+Muskingum - Ohio,0.9456487991536181
+Noble - Ohio,0.8422655846555982
+Ottawa - Ohio,0.9776400903891656
+Out of OH - Ohio,nan
+Paulding - Ohio,0.955659214182536
+Perry - Ohio,0.9492600710292864
+Pickaway - Ohio,0.7351060386784375
+Pike - Ohio,0.956545362684555
+Portage - Ohio,0.9673081258290377
+Preble - Ohio,0.9474499545152223
+Putnam - Ohio,0.9480025475881959
+Richland - Ohio,0.9639130518576544
+Ross - Ohio,0.960387358532607
+Sandusky - Ohio,0.9328302211983184
+Scioto - Ohio,0.9592876888559789
+Seneca - Ohio,0.9495447702164547
+Shelby - Ohio,0.9446145448884556
+Stark - Ohio,0.9794564365480918
+Summit - Ohio,0.973063813176198
+Trumbull - Ohio,0.9334167773985608
+Tuscarawas - Ohio,0.9563933998788321
+Unassigned - Ohio,0.10539550466413095
+Union - Ohio,0.9784559503733692
+Van Wert - Ohio,0.9655179727582283
+Vinton - Ohio,0.9367779897784446
+Warren - Ohio,0.990020539687667
+Washington - Ohio,0.9391426019128614
+Wayne - Ohio,0.9611460001948716
+Williams - Ohio,0.9801278147606844
+Wood - Ohio,0.9845512042407727
+Wyandot - Ohio,0.9765439908569039
+Adair - Oklahoma,0.963916860312604
+Alfalfa - Oklahoma,0.8490293626127315
+Atoka - Oklahoma,0.9221803370877415
+Beaver - Oklahoma,0.8902469754648592
+Beckham - Oklahoma,0.8517794880866196
+Blaine - Oklahoma,0.9455241314822889
+Bryan - Oklahoma,0.9763177000098087
+Caddo - Oklahoma,0.9715154630138136
+Canadian - Oklahoma,0.9780056384424457
+Carter - Oklahoma,0.9904042618911617
+Cherokee - Oklahoma,0.9609339690386466
+Choctaw - Oklahoma,0.9799409414731048
+Cimarron - Oklahoma,0.8895286785111088
+Cleveland - Oklahoma,0.9700438665939866
+Coal - Oklahoma,0.9116370877869266
+Comanche - Oklahoma,0.9852147806542153
+Cotton - Oklahoma,0.9379053836438849
+Craig - Oklahoma,0.8259841772041903
+Creek - Oklahoma,0.981583062590339
+Custer - Oklahoma,0.9265591807024124
+Delaware - Oklahoma,0.9771011498751966
+Dewey - Oklahoma,0.8157829531860066
+Ellis - Oklahoma,0.9070254301186729
+Garfield - Oklahoma,0.9487243580156798
+Garvin - Oklahoma,0.9804952952954017
+Grady - Oklahoma,0.9632630569203496
+Grant - Oklahoma,0.926687535149348
+Greer - Oklahoma,0.7930799365363036
+Harmon - Oklahoma,0.949509873873164
+Harper - Oklahoma,0.9105421028190498
+Haskell - Oklahoma,0.9125053922651937
+Hughes - Oklahoma,0.9659500927083648
+Jackson - Oklahoma,0.9813680610952554
+Jefferson - Oklahoma,0.9610359516649738
+Johnston - Oklahoma,0.9334736430727283
+Kay - Oklahoma,0.9594437015251693
+Kingfisher - Oklahoma,0.9667945413300887
+Kiowa - Oklahoma,0.9171739043050395
+Latimer - Oklahoma,0.9541663137461434
+Le Flore - Oklahoma,0.9281525602624464
+Lincoln - Oklahoma,0.955552627110809
+Logan - Oklahoma,0.9663747341566182
+Love - Oklahoma,0.9592374469121887
+Major - Oklahoma,0.9506523070548067
+Marshall - Oklahoma,0.9889871067118365
+Mayes - Oklahoma,0.9793595304506467
+McClain - Oklahoma,0.9795956361117308
+McCurtain - Oklahoma,0.9798827729947643
+McIntosh - Oklahoma,0.9890693779738468
+Murray - Oklahoma,0.9553014721816239
+Muskogee - Oklahoma,0.9436804256262961
+Noble - Oklahoma,0.981466502535559
+Nowata - Oklahoma,0.9640064297577041
+Okfuskee - Oklahoma,0.826789172809219
+Oklahoma - Oklahoma,0.9829679989574811
+Okmulgee - Oklahoma,0.9856227763429761
+Osage - Oklahoma,0.9636309374072823
+Ottawa - Oklahoma,0.9746471082509448
+Out of OK - Oklahoma,-0.11195324724271381
+Pawnee - Oklahoma,0.9805242485166342
+Payne - Oklahoma,0.9558075934307343
+Pittsburg - Oklahoma,0.9562561247863062
+Pontotoc - Oklahoma,0.9649156132460572
+Pottawatomie - Oklahoma,0.9567535642620455
+Pushmataha - Oklahoma,0.9747133806724968
+Roger Mills - Oklahoma,0.8255219599820357
+Rogers - Oklahoma,0.9787598574001659
+Seminole - Oklahoma,0.9614779447635368
+Sequoyah - Oklahoma,0.9621988622977389
+Stephens - Oklahoma,0.9729215110238654
+Texas - Oklahoma,0.8525784296280572
+Tillman - Oklahoma,0.9713568837237894
+Tulsa - Oklahoma,0.9842699886585574
+Unassigned - Oklahoma,-0.06021474407188959
+Wagoner - Oklahoma,0.9854031831037043
+Washington - Oklahoma,0.9678957950648883
+Washita - Oklahoma,0.8127587904668487
+Woods - Oklahoma,0.8312258526280702
+Woodward - Oklahoma,0.7558751608817478
+Baker - Oregon,0.9258401342162739
+Benton - Oregon,0.9593237049768293
+Clackamas - Oregon,0.9778554737508426
+Clatsop - Oregon,0.9044276756983796
+Columbia - Oregon,0.9764260905649784
+Coos - Oregon,0.9438574347213634
+Crook - Oregon,0.9602612533525863
+Curry - Oregon,0.9338895575630528
+Deschutes - Oregon,0.9896082638070776
+Douglas - Oregon,0.973491551039434
+Gilliam - Oregon,0.9213437386360734
+Grant - Oregon,0.7158941474593679
+Harney - Oregon,0.8200049306970882
+Hood River - Oregon,0.9599930313761951
+Jackson - Oregon,0.9610367260497146
+Jefferson - Oregon,0.9723940479144251
+Josephine - Oregon,0.9631272961918776
+Klamath - Oregon,0.9675519630052845
+Lake - Oregon,0.8783784560206523
+Lane - Oregon,0.9517270552832837
+Lincoln - Oregon,0.8487372611235178
+Linn - Oregon,0.9765498771202592
+Malheur - Oregon,0.9708906598371839
+Marion - Oregon,0.9760300506030923
+Morrow - Oregon,0.9628269732161231
+Multnomah - Oregon,0.976788009692762
+Out of OR - Oregon,nan
+Polk - Oregon,0.9752398409389937
+Sherman - Oregon,0.9287966603642085
+Tillamook - Oregon,0.9388568103276127
+Umatilla - Oregon,0.9666080693705662
+Unassigned - Oregon,-0.08652936343856503
+Union - Oregon,0.8786457755708167
+Wallowa - Oregon,0.9613279004904427
+Wasco - Oregon,0.967424242697028
+Washington - Oregon,0.9819046575726205
+Wheeler - Oregon,0.32895184093047614
+Yamhill - Oregon,0.968157673943584
+Adams - Pennsylvania,0.9760456972303733
+Allegheny - Pennsylvania,0.9797747508611508
+Armstrong - Pennsylvania,0.9509099026485965
+Beaver - Pennsylvania,0.9459797679470239
+Bedford - Pennsylvania,0.9787863819339976
+Berks - Pennsylvania,0.8854018533849396
+Blair - Pennsylvania,0.9699442397824662
+Bradford - Pennsylvania,0.8493573880193206
+Bucks - Pennsylvania,0.8750283594261031
+Butler - Pennsylvania,0.9843985820347785
+Cambria - Pennsylvania,0.978301169004202
+Cameron - Pennsylvania,0.8125690459812571
+Carbon - Pennsylvania,0.9029104914364348
+Centre - Pennsylvania,0.8679583321400055
+Chester - Pennsylvania,0.9255955880172788
+Clarion - Pennsylvania,0.9826379275458672
+Clearfield - Pennsylvania,0.9865167662375576
+Clinton - Pennsylvania,0.9587293850414097
+Columbia - Pennsylvania,0.9142076172123332
+Crawford - Pennsylvania,0.9821382905905963
+Cumberland - Pennsylvania,0.9655143054873079
+Dauphin - Pennsylvania,0.9490647569186034
+Delaware - Pennsylvania,0.8850818225270537
+Elk - Pennsylvania,0.9842981471794314
+Erie - Pennsylvania,0.9727908075850463
+Fayette - Pennsylvania,0.9804661023447425
+Forest - Pennsylvania,0.7614584290467858
+Franklin - Pennsylvania,0.933961801719159
+Fulton - Pennsylvania,0.9376793709701844
+Greene - Pennsylvania,0.961733124013222
+Huntingdon - Pennsylvania,0.9313415920010851
+Indiana - Pennsylvania,0.9738772705976926
+Jefferson - Pennsylvania,0.9922844238461037
+Juniata - Pennsylvania,0.8855269865001849
+Lackawanna - Pennsylvania,0.8928013134545085
+Lancaster - Pennsylvania,0.9375749710581243
+Lawrence - Pennsylvania,0.985138633390563
+Lebanon - Pennsylvania,0.9044914646956683
+Lehigh - Pennsylvania,0.8053908206833205
+Luzerne - Pennsylvania,0.8202514136340866
+Lycoming - Pennsylvania,0.9848284818196622
+McKean - Pennsylvania,0.9615800016731127
+Mercer - Pennsylvania,0.9874943881962168
+Mifflin - Pennsylvania,0.9712037330215038
+Monroe - Pennsylvania,0.7583125052224371
+Montgomery - Pennsylvania,0.8600093343180917
+Montour - Pennsylvania,0.9555156583628415
+Northampton - Pennsylvania,0.8198350345815467
+Northumberland - Pennsylvania,0.9646705702416665
+Out of PA - Pennsylvania,nan
+Perry - Pennsylvania,0.9674873684366302
+Philadelphia - Pennsylvania,0.8337544297292113
+Pike - Pennsylvania,0.7165022236705365
+Potter - Pennsylvania,0.9449729594293571
+Schuylkill - Pennsylvania,0.93254851599716
+Snyder - Pennsylvania,0.9452457175938316
+Somerset - Pennsylvania,0.9816653184953958
+Sullivan - Pennsylvania,0.8353667947036818
+Susquehanna - Pennsylvania,0.9259158153297121
+Tioga - Pennsylvania,0.8982285789008573
+Unassigned - Pennsylvania,nan
+Union - Pennsylvania,0.94751649559395
+Venango - Pennsylvania,0.9479545360987571
+Warren - Pennsylvania,0.9724038750600021
+Washington - Pennsylvania,0.9864265507766007
+Wayne - Pennsylvania,0.8816098259165674
+Westmoreland - Pennsylvania,0.987902575737407
+Wyoming - Pennsylvania,0.9272895292558183
+York - Pennsylvania,0.9786355046127644
+Adjuntas - Puerto Rico,0.9624758476410126
+Aguada - Puerto Rico,0.9369413754051665
+Aguadilla - Puerto Rico,0.96374891226079
+Aguas Buenas - Puerto Rico,0.9522334562313505
+Aibonito - Puerto Rico,0.9569889660273292
+Anasco - Puerto Rico,0.9450670382574397
+Arecibo - Puerto Rico,0.9452448265618962
+Arroyo - Puerto Rico,0.9812545955174494
+Barceloneta - Puerto Rico,0.9596775457947857
+Barranquitas - Puerto Rico,0.9723447826528981
+Bayamon - Puerto Rico,0.9641101512126692
+Cabo Rojo - Puerto Rico,0.9841076648962053
+Caguas - Puerto Rico,0.9583806984374281
+Camuy - Puerto Rico,0.9720535109641397
+Canovanas - Puerto Rico,0.9861465076477073
+Carolina - Puerto Rico,0.9724931449361622
+Catano - Puerto Rico,0.9505165398871039
+Cayey - Puerto Rico,0.9657151545081925
+Ceiba - Puerto Rico,0.975835760494249
+Ciales - Puerto Rico,0.9863422911121016
+Cidra - Puerto Rico,0.9566043762641568
+Coamo - Puerto Rico,0.9653702187120299
+Comerio - Puerto Rico,0.9308108137123119
+Corozal - Puerto Rico,0.9439143878377514
+Culebra - Puerto Rico,0.8141441792846991
+Dorado - Puerto Rico,0.9732882156663611
+Fajardo - Puerto Rico,0.9762870515934967
+Florida - Puerto Rico,0.9736823146189296
+Guanica - Puerto Rico,0.9339617177611664
+Guayama - Puerto Rico,0.9842746582496167
+Guayanilla - Puerto Rico,0.9802057470226513
+Guaynabo - Puerto Rico,0.9645369212695498
+Gurabo - Puerto Rico,0.9655781673314836
+Hatillo - Puerto Rico,0.9356195461654264
+Hormigueros - Puerto Rico,0.9581984112257244
+Humacao - Puerto Rico,0.9581813078331968
+Isabela - Puerto Rico,0.9540319291013813
+Jayuya - Puerto Rico,0.9523412945724884
+Juana Diaz - Puerto Rico,0.9562584262741735
+Juncos - Puerto Rico,0.9594279089410761
+Lajas - Puerto Rico,0.9816711637062181
+Lares - Puerto Rico,0.9512631898795665
+Las Marias - Puerto Rico,0.9641162613709824
+Las Piedras - Puerto Rico,0.9647432690101501
+Loiza - Puerto Rico,0.9743046225356302
+Luquillo - Puerto Rico,0.9751116810136771
+Manati - Puerto Rico,0.9405866291477338
+Maricao - Puerto Rico,0.969033898550065
+Maunabo - Puerto Rico,0.9694471433058202
+Mayaguez - Puerto Rico,0.9613562724974243
+Moca - Puerto Rico,0.9464423495165023
+Morovis - Puerto Rico,0.9686386193829113
+Naguabo - Puerto Rico,0.9571241363885961
+Naranjito - Puerto Rico,0.9602438153450794
+Orocovis - Puerto Rico,0.9375457680879327
+Out of PR - Puerto Rico,0.8147184453500222
+Patillas - Puerto Rico,0.9488230863628959
+Penuelas - Puerto Rico,0.9858603314976837
+Ponce - Puerto Rico,0.9715230657827494
+Quebradillas - Puerto Rico,0.913933336447789
+Rincon - Puerto Rico,0.9580439370179041
+Rio Grande - Puerto Rico,0.980675298739685
+Sabana Grande - Puerto Rico,0.9068783391128794
+Salinas - Puerto Rico,0.9527621728544905
+San German - Puerto Rico,0.9349286747385164
+San Juan - Puerto Rico,0.9617445287516404
+San Lorenzo - Puerto Rico,0.9519327740064472
+San Sebastian - Puerto Rico,0.9418703513730662
+Santa Isabel - Puerto Rico,0.9158909236554218
+Toa Alta - Puerto Rico,0.9718018603867955
+Toa Baja - Puerto Rico,0.9552797904524152
+Trujillo Alto - Puerto Rico,0.9690223834897297
+Unassigned - Puerto Rico,0.19798795216282317
+Utuado - Puerto Rico,0.9530023999159375
+Vega Alta - Puerto Rico,0.9551512336875925
+Vega Baja - Puerto Rico,0.9671982829968806
+Vieques - Puerto Rico,0.8257564787148448
+Villalba - Puerto Rico,0.9379552189892555
+Yabucoa - Puerto Rico,0.9644996657987026
+Yauco - Puerto Rico,0.9895483950363939
+Bristol - Rhode Island,0.8765613313609066
+Kent - Rhode Island,0.893295398009431
+Newport - Rhode Island,0.9077666425839042
+Out of RI - Rhode Island,nan
+Providence - Rhode Island,0.8593601451686561
+Unassigned - Rhode Island,0.2679069079819754
+Washington - Rhode Island,0.904759569317495
+Abbeville - South Carolina,0.9854086641747333
+Aiken - South Carolina,0.9412931667375661
+Allendale - South Carolina,0.9538434392269556
+Anderson - South Carolina,0.9795929241454254
+Bamberg - South Carolina,0.9622241169047818
+Barnwell - South Carolina,0.9805628696823933
+Beaufort - South Carolina,0.965812773958279
+Berkeley - South Carolina,0.9553807018007209
+Calhoun - South Carolina,0.9609091030821177
+Charleston - South Carolina,0.9511409403013532
+Cherokee - South Carolina,0.9832535183859188
+Chester - South Carolina,0.9746608659491579
+Chesterfield - South Carolina,0.9768188393277669
+Clarendon - South Carolina,0.9444993151746351
+Colleton - South Carolina,0.9485056648331139
+Darlington - South Carolina,0.9798591372227112
+Dillon - South Carolina,0.9717484296362503
+Dorchester - South Carolina,0.9537601346825317
+Edgefield - South Carolina,0.9450803107892423
+Fairfield - South Carolina,0.9485841041168943
+Florence - South Carolina,0.9724425398090766
+Georgetown - South Carolina,0.9593505762303719
+Greenville - South Carolina,0.9757024929515772
+Greenwood - South Carolina,0.953155112022979
+Hampton - South Carolina,0.9502534005611835
+Horry - South Carolina,0.9601699948027732
+Jasper - South Carolina,0.9614420745609877
+Kershaw - South Carolina,0.9687785220726941
+Lancaster - South Carolina,0.9727168840223723
+Laurens - South Carolina,0.9592848781973137
+Lee - South Carolina,0.9414547467079776
+Lexington - South Carolina,0.9726386674381428
+Marion - South Carolina,0.9846734219465615
+Marlboro - South Carolina,0.9742330955697416
+McCormick - South Carolina,0.9681889828907865
+Newberry - South Carolina,0.975650714245833
+Oconee - South Carolina,0.9495275213059835
+Orangeburg - South Carolina,0.9480880119286396
+Out of SC - South Carolina,nan
+Pickens - South Carolina,0.9828539387573296
+Richland - South Carolina,0.9688001384569568
+Saluda - South Carolina,0.9356170345823142
+Spartanburg - South Carolina,0.9856728525225389
+Sumter - South Carolina,0.9391161616487602
+Unassigned - South Carolina,-0.10184336672943095
+Union - South Carolina,0.9792847130459919
+Williamsburg - South Carolina,0.9645192267455187
+York - South Carolina,0.9610608228590926
+Aurora - South Dakota,0.7756991250714983
+Beadle - South Dakota,0.8915740746924635
+Bennett - South Dakota,0.8365721265763897
+Bon Homme - South Dakota,0.6418984534109307
+Brookings - South Dakota,0.9059886606770737
+Brown - South Dakota,0.9422945137340297
+Brule - South Dakota,0.9318316523421626
+Buffalo - South Dakota,0.9728909899179545
+Butte - South Dakota,0.8609240370060252
+Campbell - South Dakota,0.7767992269289115
+Charles Mix - South Dakota,0.9556512256959968
+Clark - South Dakota,0.8836427061313195
+Clay - South Dakota,0.915664029309823
+Codington - South Dakota,0.9074987737609292
+Corson - South Dakota,0.9604455246569442
+Custer - South Dakota,0.9263476849422501
+Davison - South Dakota,0.8697215911673677
+Day - South Dakota,0.9204885724446483
+Deuel - South Dakota,0.9092668334663075
+Dewey - South Dakota,0.8971449044177409
+Douglas - South Dakota,0.8661442301524076
+Edmunds - South Dakota,0.8923322038413403
+Fall River - South Dakota,0.9168261892155172
+Faulk - South Dakota,0.867969803133122
+Grant - South Dakota,0.8671618977575772
+Gregory - South Dakota,0.858702780197223
+Haakon - South Dakota,0.7969864725470927
+Hamlin - South Dakota,0.9311973145491905
+Hand - South Dakota,0.8497828570448747
+Hanson - South Dakota,0.8510811379492464
+Harding - South Dakota,0.6984799129274778
+Hughes - South Dakota,0.863374642741134
+Hutchinson - South Dakota,0.9084646909196206
+Hyde - South Dakota,0.8577513524273459
+Jackson - South Dakota,0.832884093762433
+Jerauld - South Dakota,0.6864978787268035
+Jones - South Dakota,0.7764220176937526
+Kingsbury - South Dakota,0.8492783329790538
+Lake - South Dakota,0.9572150855606306
+Lawrence - South Dakota,0.9012990963366125
+Lincoln - South Dakota,0.9596642928059538
+Lyman - South Dakota,0.947468055133553
+Marshall - South Dakota,0.9259121035041087
+McCook - South Dakota,0.9043981548130297
+McPherson - South Dakota,0.8895423176275432
+Meade - South Dakota,0.92388008561397
+Mellette - South Dakota,0.9126703811784582
+Miner - South Dakota,0.7540077314284186
+Minnehaha - South Dakota,0.9312048691800939
+Moody - South Dakota,0.9157364046907598
+Oglala Lakota - South Dakota,0.9107040919825593
+Out of SD - South Dakota,nan
+Pennington - South Dakota,0.93908573291736
+Perkins - South Dakota,0.8748450841384657
+Potter - South Dakota,0.809488039565914
+Roberts - South Dakota,0.9010407393680392
+Sanborn - South Dakota,0.8391584837721155
+Spink - South Dakota,0.8951745506558889
+Stanley - South Dakota,0.8666359270898051
+Sully - South Dakota,0.8213020288866177
+Todd - South Dakota,0.8828465135426895
+Tripp - South Dakota,0.8123893680543983
+Turner - South Dakota,0.8832040722970362
+Unassigned - South Dakota,-0.03968179217101338
+Union - South Dakota,0.9592468787470563
+Walworth - South Dakota,0.8801823198749512
+Yankton - South Dakota,0.9317903529106069
+Ziebach - South Dakota,0.9375923601426154
+Anderson - Tennessee,0.9717530598276861
+Bedford - Tennessee,0.9690595530876469
+Benton - Tennessee,0.9482483637094294
+Bledsoe - Tennessee,0.7802913886572764
+Blount - Tennessee,0.9653198637038958
+Bradley - Tennessee,0.9780146780752887
+Campbell - Tennessee,0.9457813078537396
+Cannon - Tennessee,0.968659992209976
+Carroll - Tennessee,0.950757634354686
+Carter - Tennessee,0.9602131952289094
+Cheatham - Tennessee,0.9870495338786703
+Chester - Tennessee,0.9383979804896614
+Claiborne - Tennessee,0.9668360990369578
+Clay - Tennessee,0.9061287301788103
+Cocke - Tennessee,0.9758667461350051
+Coffee - Tennessee,0.9636030642965631
+Crockett - Tennessee,0.9671691125573125
+Cumberland - Tennessee,0.950212333926352
+Davidson - Tennessee,0.9530550895236463
+DeKalb - Tennessee,0.9421197409002405
+Decatur - Tennessee,0.9582647413252262
+Dickson - Tennessee,0.9829993781264776
+Dyer - Tennessee,0.9760695302111468
+Fayette - Tennessee,0.9821331456714377
+Fentress - Tennessee,0.9051348141176969
+Franklin - Tennessee,0.9506208362196695
+Gibson - Tennessee,0.9621139243701584
+Giles - Tennessee,0.9711343409999771
+Grainger - Tennessee,0.9558006160567024
+Greene - Tennessee,0.9581414323549973
+Grundy - Tennessee,0.9305931322766416
+Hamblen - Tennessee,0.9402444885312734
+Hamilton - Tennessee,0.9784569210056742
+Hancock - Tennessee,0.9501314671228323
+Hardeman - Tennessee,0.9742146112541231
+Hardin - Tennessee,0.9601072987579086
+Hawkins - Tennessee,0.9748243126991257
+Haywood - Tennessee,0.9602013085839795
+Henderson - Tennessee,0.9534103688161465
+Henry - Tennessee,0.9620928755206402
+Hickman - Tennessee,0.9741318070691273
+Houston - Tennessee,0.8980479601884535
+Humphreys - Tennessee,0.970943837093118
+Jackson - Tennessee,0.9607316124664927
+Jefferson - Tennessee,0.9533754342237186
+Johnson - Tennessee,0.9348925703815445
+Knox - Tennessee,0.9730553668949686
+Lake - Tennessee,0.6877719154866878
+Lauderdale - Tennessee,0.9810988439890271
+Lawrence - Tennessee,0.9803713221344355
+Lewis - Tennessee,0.9155877462185644
+Lincoln - Tennessee,0.9803576323414915
+Loudon - Tennessee,0.9662408945108713
+Macon - Tennessee,0.9445813018373854
+Madison - Tennessee,0.9590529969933772
+Marion - Tennessee,0.9656147192224871
+Marshall - Tennessee,0.968663014979423
+Maury - Tennessee,0.9793363256238796
+McMinn - Tennessee,0.9836276313991998
+McNairy - Tennessee,0.9657676651237057
+Meigs - Tennessee,0.9770084269868597
+Monroe - Tennessee,0.9622453094024997
+Montgomery - Tennessee,0.9872939524894683
+Moore - Tennessee,0.9573195166793088
+Morgan - Tennessee,0.9393915557885177
+Obion - Tennessee,0.9696654560705316
+Out of TN - Tennessee,0.9326337998444716
+Overton - Tennessee,0.9449754663763092
+Perry - Tennessee,0.9460871267881916
+Pickett - Tennessee,0.8999061658918199
+Polk - Tennessee,0.9462866425712513
+Putnam - Tennessee,0.9719302608515503
+Rhea - Tennessee,0.9455488109838862
+Roane - Tennessee,0.9518178405620961
+Robertson - Tennessee,0.9761190405293949
+Rutherford - Tennessee,0.9777139977565299
+Scott - Tennessee,0.9748132372339775
+Sequatchie - Tennessee,0.961894622323005
+Sevier - Tennessee,0.9736804149891403
+Shelby - Tennessee,0.9716124723399533
+Smith - Tennessee,0.9665913298042866
+Stewart - Tennessee,0.9357038852330705
+Sullivan - Tennessee,0.9622735753943574
+Sumner - Tennessee,0.9800358838188286
+Tipton - Tennessee,0.9787056576906463
+Trousdale - Tennessee,0.6114698375672968
+Unassigned - Tennessee,0.8333334716195311
+Unicoi - Tennessee,0.974338724321959
+Union - Tennessee,0.9446591071750009
+Van Buren - Tennessee,0.8636293505890316
+Warren - Tennessee,0.9667256926629083
+Washington - Tennessee,0.9704819685444287
+Wayne - Tennessee,0.7958696121905026
+Weakley - Tennessee,0.9465544665866382
+White - Tennessee,0.9530299436321259
+Williamson - Tennessee,0.9806075928700383
+Wilson - Tennessee,0.9784369379168728
+Anderson - Texas,0.5421409222132866
+Andrews - Texas,0.9877684513009035
+Angelina - Texas,0.9527243154482283
+Aransas - Texas,0.9537324335143689
+Archer - Texas,0.9328391907478651
+Armstrong - Texas,0.9652750845191467
+Atascosa - Texas,0.8319629305476721
+Austin - Texas,0.96281552408639
+Bailey - Texas,0.9719835863102495
+Bandera - Texas,0.893785394985396
+Bastrop - Texas,0.9644175658144976
+Baylor - Texas,0.8990713979647859
+Bee - Texas,0.9369068098942733
+Bell - Texas,0.9661778318683734
+Bexar - Texas,0.971870513181289
+Blanco - Texas,0.945293992715616
+Borden - Texas,0.6009293756671488
+Bosque - Texas,0.9395776280589905
+Bowie - Texas,0.9771016209032835
+Brazoria - Texas,0.964873248641641
+Brazos - Texas,0.9757733343691477
+Brewster - Texas,0.9137062231126684
+Briscoe - Texas,0.9623580559752013
+Brooks - Texas,0.950083512822017
+Brown - Texas,0.8297168260211865
+Burleson - Texas,0.977428141472096
+Burnet - Texas,0.9515772638388338
+Caldwell - Texas,0.9635830783018824
+Calhoun - Texas,0.8952878517476404
+Callahan - Texas,0.9402924300537003
+Cameron - Texas,0.9561847739114102
+Camp - Texas,0.9214935297462634
+Carson - Texas,0.9273237517319259
+Cass - Texas,0.9362859364001509
+Castro - Texas,0.9686934413501028
+Chambers - Texas,0.9680197460321887
+Cherokee - Texas,0.9138745256082795
+Childress - Texas,0.9178981284438723
+Clay - Texas,0.9222344807796666
+Cochran - Texas,0.9486909106898733
+Coke - Texas,0.9583571523549148
+Coleman - Texas,0.8896566307871463
+Collin - Texas,0.9652778073118595
+Collingsworth - Texas,0.9220288550435384
+Colorado - Texas,0.9485959380287237
+Comal - Texas,0.9496878296226314
+Comanche - Texas,0.8949639816245849
+Concho - Texas,0.916539604298187
+Cooke - Texas,0.9019701105213738
+Coryell - Texas,0.9194035171660246
+Cottle - Texas,0.944022296694837
+Crane - Texas,0.7738242347608286
+Crockett - Texas,0.9119130412284427
+Crosby - Texas,0.9813467473842962
+Culberson - Texas,0.9328086116632639
+Dallam - Texas,0.9866615495974108
+Dallas - Texas,0.9633753756900151
+Dawson - Texas,0.9344190376589627
+DeWitt - Texas,0.9077990263064578
+Deaf Smith - Texas,0.9706789513704113
+Delta - Texas,0.9813125167704524
+Denton - Texas,0.9806547666344712
+Dickens - Texas,0.8541746505520678
+Dimmit - Texas,0.8956049420269543
+Donley - Texas,0.9360840915694675
+Duval - Texas,0.941717080974483
+Eastland - Texas,0.8900403858313953
+Ector - Texas,0.9712356723781086
+Edwards - Texas,0.8293968631192183
+Ellis - Texas,0.9663619098773867
+Erath - Texas,0.9042126949085592
+Falls - Texas,0.8910805727716009
+Fannin - Texas,0.9247559631621057
+Fayette - Texas,0.9648912713592475
+Fisher - Texas,0.9761916968212362
+Floyd - Texas,0.965274153102087
+Foard - Texas,0.7977837312668095
+Fort Bend - Texas,0.965412227228369
+Franklin - Texas,0.9730214030491451
+Freestone - Texas,0.859059306542824
+Frio - Texas,0.8845848318801073
+Gaines - Texas,0.9751549919892522
+Galveston - Texas,0.9521018561437309
+Garza - Texas,0.8381757925766453
+Gillespie - Texas,0.9393112604936613
+Glasscock - Texas,0.8991976907281821
+Goliad - Texas,0.8326238432334624
+Gonzales - Texas,0.9158781162305057
+Gray - Texas,0.9767132829999409
+Grayson - Texas,0.974882147414502
+Gregg - Texas,0.9699555458401734
+Grimes - Texas,0.9369702140102966
+Guadalupe - Texas,0.8085754304971404
+Hale - Texas,0.958587548133877
+Hall - Texas,0.8937934114899408
+Hamilton - Texas,0.9844276266911397
+Hansford - Texas,0.9574238946656894
+Hardeman - Texas,0.9217742823004655
+Hardin - Texas,0.9059078525820898
+Harris - Texas,0.9589735686365299
+Harrison - Texas,0.9575110003004754
+Hartley - Texas,0.9696439445416737
+Haskell - Texas,0.7455176132293995
+Hays - Texas,0.9407224111615012
+Hemphill - Texas,0.9767338792727003
+Henderson - Texas,0.9518898709530982
+Hidalgo - Texas,0.9191215502115359
+Hill - Texas,0.9630074817325605
+Hockley - Texas,0.9802896336905342
+Hood - Texas,0.9713687845813183
+Hopkins - Texas,0.9644170506889224
+Houston - Texas,0.8749483780524354
+Howard - Texas,0.8814770941365262
+Hudspeth - Texas,0.9687748440293795
+Hunt - Texas,0.9574115417886251
+Hutchinson - Texas,0.9854950087789417
+Irion - Texas,0.9122040687270199
+Jack - Texas,0.9266144006029305
+Jackson - Texas,0.9512132228305014
+Jasper - Texas,0.8613417063533917
+Jeff Davis - Texas,0.9332629504711145
+Jefferson - Texas,0.9649521445385499
+Jim Hogg - Texas,0.9777855760527298
+Jim Wells - Texas,0.9630424531404415
+Johnson - Texas,0.9749856843090721
+Jones - Texas,0.698841319231599
+Karnes - Texas,0.8550102952821174
+Kaufman - Texas,0.9658807534734564
+Kendall - Texas,0.9052756247157795
+Kenedy - Texas,0.9256053379081389
+Kent - Texas,0.8680346770819986
+Kerr - Texas,0.9213862705336078
+Kimble - Texas,0.7606317542111716
+King - Texas,0.3821816859490229
+Kinney - Texas,0.7413497683078825
+Kleberg - Texas,0.9509634290182929
+Knox - Texas,0.9105085640838788
+La Salle - Texas,0.7646747664427372
+Lamar - Texas,0.9769059328381443
+Lamb - Texas,0.9885809073149515
+Lampasas - Texas,0.9272979312400591
+Lavaca - Texas,0.954708478490939
+Lee - Texas,0.9642249889706673
+Leon - Texas,0.988643558190073
+Liberty - Texas,0.9538060859407742
+Limestone - Texas,0.9463340264918798
+Lipscomb - Texas,0.9686394006574203
+Live Oak - Texas,0.9489197046564597
+Llano - Texas,0.9826311378645898
+Loving - Texas,nan
+Lubbock - Texas,0.9720605749285729
+Lynn - Texas,0.9862090624372206
+Madison - Texas,0.6423875274613158
+Marion - Texas,0.9474151466357806
+Martin - Texas,0.9498435410698778
+Mason - Texas,0.8784005375352167
+Matagorda - Texas,0.9584113080588363
+Maverick - Texas,0.776585363734603
+McCulloch - Texas,0.9565609175778194
+McLennan - Texas,0.9835209524368749
+McMullen - Texas,0.8717323582408737
+Medina - Texas,0.9615637075498904
+Menard - Texas,0.9702318149612461
+Midland - Texas,0.9848203911666842
+Milam - Texas,0.8857595165255521
+Mills - Texas,0.8454874727343806
+Mitchell - Texas,0.9731532864462358
+Montague - Texas,0.9313740426182804
+Montgomery - Texas,0.9853992350362589
+Moore - Texas,0.8425093006340875
+Morris - Texas,0.9438271900690124
+Motley - Texas,0.9059513892104014
+Nacogdoches - Texas,0.9467577810798175
+Navarro - Texas,0.9442449107645723
+Newton - Texas,0.8770894427732977
+Nolan - Texas,0.9717697329684895
+Nueces - Texas,0.9415573306693563
+Ochiltree - Texas,0.9028589753275511
+Oldham - Texas,0.9427879989624001
+Orange - Texas,0.9143778176417465
+Out of TX - Texas,nan
+Palo Pinto - Texas,0.9494574708821268
+Panola - Texas,0.850230160443126
+Parker - Texas,0.919193431521143
+Parmer - Texas,0.8642590341669628
+Pecos - Texas,0.9517408038074064
+Polk - Texas,0.9465977407831965
+Potter - Texas,0.8970022489802159
+Presidio - Texas,0.9422885335930432
+Rains - Texas,0.9572071619723088
+Randall - Texas,0.9788872583520325
+Reagan - Texas,0.9454322181624899
+Real - Texas,0.7157639515659732
+Red River - Texas,0.8304082574977687
+Reeves - Texas,0.9828220024595818
+Refugio - Texas,0.9446729409795531
+Roberts - Texas,0.8690597449654947
+Robertson - Texas,0.8855634039709488
+Rockwall - Texas,0.9746704872115697
+Runnels - Texas,0.9040432533168965
+Rusk - Texas,0.9255307461441609
+Sabine - Texas,0.9567885344548106
+San Augustine - Texas,0.9267945157757729
+San Jacinto - Texas,0.9561709692415739
+San Patricio - Texas,0.9570403285369871
+San Saba - Texas,0.9221951909628421
+Schleicher - Texas,0.9435381047705577
+Scurry - Texas,0.8070720474297012
+Shackelford - Texas,0.885098336955889
+Shelby - Texas,0.922209246016241
+Sherman - Texas,0.9314626368774094
+Smith - Texas,0.9604685644667261
+Somervell - Texas,0.9633261370799426
+Starr - Texas,0.907302990410032
+Stephens - Texas,0.8420806714405191
+Sterling - Texas,0.8370791968271252
+Stonewall - Texas,0.9219568802113953
+Sutton - Texas,0.8661557848476613
+Swisher - Texas,0.9477146060616943
+Tarrant - Texas,0.9886211617591201
+Taylor - Texas,0.6298796452775962
+Terrell - Texas,0.5273711592976141
+Terry - Texas,0.9580036236890586
+Throckmorton - Texas,0.9201658357411111
+Titus - Texas,0.9234745943750744
+Tom Green - Texas,0.9513958453875824
+Travis - Texas,0.9632493688313374
+Trinity - Texas,0.9302882360625582
+Tyler - Texas,0.9665318226166841
+Unassigned - Texas,-0.0823104444899382
+Upshur - Texas,0.9820005483112821
+Upton - Texas,0.787557010558833
+Uvalde - Texas,0.9644516750870977
+Val Verde - Texas,0.9508369204181235
+Van Zandt - Texas,0.955098022006558
+Victoria - Texas,0.8642171181182547
+Walker - Texas,0.8993445819738295
+Waller - Texas,0.9504654800712337
+Ward - Texas,0.9339631141991872
+Washington - Texas,0.9474874019029664
+Webb - Texas,0.960095043249168
+Wharton - Texas,0.9487095715042158
+Wheeler - Texas,0.9417200657373379
+Wichita - Texas,0.9843369123823736
+Wilbarger - Texas,0.9307999009011232
+Willacy - Texas,0.9556434402186091
+Williamson - Texas,0.9568591497765333
+Wilson - Texas,0.9093865704718903
+Winkler - Texas,0.9571600239944931
+Wise - Texas,0.9720464246323732
+Wood - Texas,0.9674016872611301
+Yoakum - Texas,0.9746154722914367
+Young - Texas,0.9757470814945305
+Zapata - Texas,0.9600133516604203
+Zavala - Texas,0.9321872945807085
+Bear River - Utah,0.9848885801392337
+Beaver - Utah,-0.08358430495311721
+Box Elder - Utah,nan
+Cache - Utah,-0.1329629822055251
+Carbon - Utah,-0.12270868095391782
+Central Utah - Utah,0.9848537630154695
+Daggett - Utah,nan
+Davis - Utah,0.9833899955041598
+Duchesne - Utah,-0.1027372603716658
+Emery - Utah,-0.10918104392303307
+Garfield - Utah,-0.0988274520577477
+Grand - Utah,-0.08973674025576281
+Iron - Utah,-0.11378826609197895
+Juab - Utah,nan
+Kane - Utah,-0.10381778184469653
+Millard - Utah,nan
+Morgan - Utah,nan
+Out of UT - Utah,-0.10015340010584478
+Piute - Utah,nan
+Rich - Utah,nan
+Salt Lake - Utah,0.9878399267306007
+San Juan - Utah,0.9039402200347996
+Sanpete - Utah,nan
+Sevier - Utah,nan
+Southeast Utah - Utah,0.949177941347139
+Southwest Utah - Utah,0.9843280713764373
+Summit - Utah,0.9265158555885117
+Tooele - Utah,0.9906890220076947
+TriCounty - Utah,0.9860131879764689
+Uintah - Utah,-0.10520986348686624
+Unassigned - Utah,-0.09185369803418585
+Utah - Utah,0.9735822847759062
+Wasatch - Utah,0.9620987956563146
+Washington - Utah,-0.13584198429765268
+Wayne - Utah,nan
+Weber - Utah,nan
+Weber-Morgan - Utah,0.9945592171867924
+Addison - Vermont,0.7662093671220882
+Bennington - Vermont,0.8801460233936489
+Caledonia - Vermont,0.8816583970906471
+Chittenden - Vermont,0.8383702322554831
+Essex - Vermont,0.8228128061332248
+Franklin - Vermont,0.6073349811395169
+Grand Isle - Vermont,0.6656886672767302
+Lamoille - Vermont,0.8667317373148518
+Orange - Vermont,0.8439287180363968
+Orleans - Vermont,0.7732884484130069
+Out of VT - Vermont,nan
+Rutland - Vermont,0.6033914611613722
+Unassigned - Vermont,-0.0742077448709976
+Washington - Vermont,0.878713229385772
+Windham - Vermont,0.8045977433529792
+Windsor - Vermont,0.8876430980509575
+ - Virgin Islands,0.9279776203207648
+Accomack - Virginia,0.7745912736116973
+Albemarle - Virginia,0.9826670449334758
+Alexandria - Virginia,0.9017678851127562
+Alleghany - Virginia,0.9519972151313114
+Amelia - Virginia,0.9558016588899043
+Amherst - Virginia,0.9694373750427955
+Appomattox - Virginia,0.9709466876405848
+Arlington - Virginia,0.8996628658936986
+Augusta - Virginia,0.9811881860054472
+Bath - Virginia,0.8710355356176422
+Bedford - Virginia,0.9767002746116452
+Bland - Virginia,0.8567192758910082
+Botetourt - Virginia,0.9779935728807518
+Bristol - Virginia,0.9655978791299566
+Brunswick - Virginia,0.9758931646344217
+Buchanan - Virginia,0.9634966287280189
+Buckingham - Virginia,0.8100612346161551
+Buena Vista - Virginia,0.9807929590937385
+Campbell - Virginia,0.9678107304900476
+Caroline - Virginia,0.9766588180028365
+Carroll - Virginia,0.9598456187819604
+Charles City - Virginia,0.9573146652327533
+Charlotte - Virginia,0.9240268310474595
+Charlottesville - Virginia,0.9706183366306033
+Chesapeake - Virginia,0.9707997311803656
+Chesterfield - Virginia,0.9548917392141172
+Clarke - Virginia,0.9534861705832106
+Colonial Heights - Virginia,0.9316340464530323
+Covington - Virginia,0.9271185098439884
+Craig - Virginia,0.9630939457434523
+Culpeper - Virginia,0.8698529981218013
+Cumberland - Virginia,0.8861236256996163
+Danville - Virginia,0.9738701857729326
+Dickenson - Virginia,0.9590485093571305
+Dinwiddie - Virginia,0.969761669592482
+Emporia - Virginia,0.9413568986393206
+Essex - Virginia,0.9428673724873494
+Fairfax - Virginia,0.8902638290890973
+Fairfax City - Virginia,0.931248143480978
+Falls Church - Virginia,0.7512899731556517
+Fauquier - Virginia,0.9568898696852588
+Floyd - Virginia,0.953723646984697
+Fluvanna - Virginia,0.9598482509228673
+Franklin - Virginia,0.7909501854025055
+Franklin City - Virginia,0.9693627282882044
+Frederick - Virginia,0.9494731693697279
+Fredericksburg - Virginia,0.9183184764061554
+Galax - Virginia,0.9136513682273912
+Giles - Virginia,0.9434245733463585
+Gloucester - Virginia,0.9832542243870948
+Goochland - Virginia,0.8827498216216209
+Grayson - Virginia,0.9524973161136148
+Greene - Virginia,0.9853140913005237
+Greensville - Virginia,0.9539678303750168
+Halifax - Virginia,0.9765125141922316
+Hampton - Virginia,0.9615112332124178
+Hanover - Virginia,0.9695698439440023
+Harrisonburg - Virginia,0.939618551920683
+Henrico - Virginia,0.9522088276880234
+Henry - Virginia,0.9854798498523947
+Highland - Virginia,0.8893311457929706
+Hopewell - Virginia,0.9619126767615246
+Isle of Wight - Virginia,0.948516728288354
+James City - Virginia,0.9560374417364136
+King George - Virginia,0.9608833908259194
+King William - Virginia,0.9751753980820306
+King and Queen - Virginia,0.9432031189679071
+Lancaster - Virginia,0.9341251687774145
+Lee - Virginia,0.9695213661721009
+Lexington - Virginia,0.8903487699143229
+Loudoun - Virginia,0.9324818983923141
+Louisa - Virginia,0.9788184714254585
+Lunenburg - Virginia,0.9798038559721556
+Lynchburg - Virginia,0.9626494461348734
+Madison - Virginia,0.9588134791138729
+Manassas - Virginia,0.8572072266026471
+Manassas Park - Virginia,0.8682872160757706
+Martinsville - Virginia,0.9821842561603433
+Mathews - Virginia,0.8470965503273038
+Mecklenburg - Virginia,0.937165196549366
+Middlesex - Virginia,0.9255680297959628
+Montgomery - Virginia,0.9024143787712944
+Nelson - Virginia,0.9082933688726251
+New Kent - Virginia,0.9586331322106647
+Newport News - Virginia,0.9647891891804611
+Norfolk - Virginia,0.9693960332445631
+Northampton - Virginia,0.7613028296398163
+Northumberland - Virginia,0.9446049539982231
+Norton - Virginia,0.9518105317424163
+Nottoway - Virginia,0.9816366184035936
+Orange - Virginia,0.9657594209342456
+Out of VA - Virginia,nan
+Page - Virginia,0.8783022159402147
+Patrick - Virginia,0.9700765406269021
+Petersburg - Virginia,0.9828942891198915
+Pittsylvania - Virginia,0.9743991046470165
+Poquoson - Virginia,0.9722709275858901
+Portsmouth - Virginia,0.9629786235940774
+Powhatan - Virginia,0.9840785948154902
+Prince Edward - Virginia,0.9823491077967627
+Prince George - Virginia,0.9823703732316618
+Prince William - Virginia,0.9165161339903395
+Pulaski - Virginia,0.968311263889276
+Radford - Virginia,0.8803292229005486
+Rappahannock - Virginia,0.9519900655019605
+Richmond - Virginia,0.611745847941608
+Richmond City - Virginia,0.9579439410779815
+Roanoke - Virginia,0.9895598205976095
+Roanoke City - Virginia,0.9908801674475988
+Rockbridge - Virginia,0.9861036688181998
+Rockingham - Virginia,0.9503564468539238
+Russell - Virginia,0.9582438606164698
+Salem - Virginia,0.9840207567075937
+Scott - Virginia,0.9607852364548066
+Shenandoah - Virginia,0.8833667990038845
+Smyth - Virginia,0.9238951984810913
+Southampton - Virginia,0.9258721800720949
+Spotsylvania - Virginia,0.9568459894856467
+Stafford - Virginia,0.9483200009474522
+Staunton - Virginia,0.9875487561434615
+Suffolk - Virginia,0.9776440092131335
+Surry - Virginia,0.9554904745622124
+Sussex - Virginia,0.962968844692958
+Tazewell - Virginia,0.9548292742261649
+Unassigned - Virginia,0.06412335555410675
+Virginia Beach - Virginia,0.9516893305438023
+Warren - Virginia,0.9223044999578848
+Washington - Virginia,0.9645524834581194
+Waynesboro - Virginia,0.9798941045791278
+Westmoreland - Virginia,0.9661510032214718
+Williamsburg - Virginia,0.9437866520399996
+Winchester - Virginia,0.9267662886717812
+Wise - Virginia,0.957106080213723
+Wythe - Virginia,0.9518964759297855
+York - Virginia,0.9778328135758275
+Adams - Washington,0.9518262456706584
+Asotin - Washington,0.8794942038285523
+Benton - Washington,0.9570658936922245
+Chelan - Washington,0.9652812545517532
+Clallam - Washington,0.9623373304622653
+Clark - Washington,0.9724238828157126
+Columbia - Washington,0.5903314597103158
+Cowlitz - Washington,0.9760015450919239
+Douglas - Washington,0.9559660168845133
+Ferry - Washington,0.8825390312314384
+Franklin - Washington,0.9554971036877902
+Garfield - Washington,0.8333390139710453
+Grant - Washington,0.9529466534840723
+Grays Harbor - Washington,0.9331207564705509
+Island - Washington,0.8530970512904508
+Jefferson - Washington,0.8884162870887754
+King - Washington,0.9483934271374228
+Kitsap - Washington,0.9811564637040109
+Kittitas - Washington,0.987254616846088
+Klickitat - Washington,0.965854231551208
+Lewis - Washington,0.956239432584945
+Lincoln - Washington,0.9397000578307266
+Mason - Washington,0.9651074543497413
+Okanogan - Washington,0.9504616514923011
+Out of WA - Washington,nan
+Pacific - Washington,0.9783007221932228
+Pend Oreille - Washington,0.9089217774622063
+Pierce - Washington,0.9746677109058262
+San Juan - Washington,0.7912862215636265
+Skagit - Washington,0.9328276448438784
+Skamania - Washington,0.9491874329247246
+Snohomish - Washington,0.9284051439737133
+Spokane - Washington,0.9911869865079787
+Stevens - Washington,0.9620007884645118
+Thurston - Washington,0.9916782635151873
+Unassigned - Washington,0.05804204815547903
+Wahkiakum - Washington,0.5950154770798189
+Walla Walla - Washington,0.9657938525958327
+Whatcom - Washington,0.9345219042892877
+Whitman - Washington,0.885334032607128
+Yakima - Washington,0.8925299632532698
+Barbour - West Virginia,0.8880703942469619
+Berkeley - West Virginia,0.9506294355566679
+Boone - West Virginia,0.9444676341506202
+Braxton - West Virginia,0.8080843346257741
+Brooke - West Virginia,0.9786461403169845
+Cabell - West Virginia,0.9824536170680691
+Calhoun - West Virginia,0.9229448902059414
+Clay - West Virginia,0.7558081533481628
+Doddridge - West Virginia,0.8387053607954795
+Fayette - West Virginia,0.9228815769701618
+Gilmer - West Virginia,0.7940684483973643
+Grant - West Virginia,0.9426214557721355
+Greenbrier - West Virginia,0.9738639552944598
+Hampshire - West Virginia,0.9157986507729508
+Hancock - West Virginia,0.9872271360208043
+Hardy - West Virginia,0.8372420553458265
+Harrison - West Virginia,0.9786852914724021
+Jackson - West Virginia,0.8729044268140403
+Jefferson - West Virginia,0.9131107778440222
+Kanawha - West Virginia,0.9510273958179893
+Lewis - West Virginia,0.9513236186719398
+Lincoln - West Virginia,0.9045691003016432
+Logan - West Virginia,0.9497591529904453
+Marion - West Virginia,0.987838071919531
+Marshall - West Virginia,0.9671293043067971
+Mason - West Virginia,0.9519427427240479
+McDowell - West Virginia,0.9671287492120522
+Mercer - West Virginia,0.9565641067616182
+Mineral - West Virginia,0.9369048510515294
+Mingo - West Virginia,0.965073242620746
+Monongalia - West Virginia,0.9697132943324895
+Monroe - West Virginia,0.9247546753895642
+Morgan - West Virginia,0.9274568466237174
+Nicholas - West Virginia,0.9230465564937705
+Ohio - West Virginia,0.980677820938748
+Out of WV - West Virginia,nan
+Pendleton - West Virginia,0.9075212182009048
+Pleasants - West Virginia,0.9207743268263399
+Pocahontas - West Virginia,0.755841690578803
+Preston - West Virginia,0.9276952861302776
+Putnam - West Virginia,0.9553056817332956
+Raleigh - West Virginia,0.9768235589970651
+Randolph - West Virginia,0.940407730357333
+Ritchie - West Virginia,0.8665600076143404
+Roane - West Virginia,0.9168420658890155
+Summers - West Virginia,0.8666773172182669
+Taylor - West Virginia,0.9414638775391089
+Tucker - West Virginia,0.8844111179177925
+Tyler - West Virginia,0.9657201876675259
+Unassigned - West Virginia,-0.08054746239287919
+Upshur - West Virginia,0.8810358726482355
+Wayne - West Virginia,0.9628953330978719
+Webster - West Virginia,0.6760767436174886
+Wetzel - West Virginia,0.9508019752194008
+Wirt - West Virginia,0.855834057123818
+Wood - West Virginia,0.9939304648489
+Wyoming - West Virginia,0.9195543512018487
+Adams - Wisconsin,0.9030387104710751
+Ashland - Wisconsin,0.8536814181717185
+Barron - Wisconsin,0.9673064669597061
+Bayfield - Wisconsin,0.912030912962247
+Brown - Wisconsin,0.9497655475381699
+Buffalo - Wisconsin,0.8446525428582726
+Burnett - Wisconsin,0.8593273818356328
+Calumet - Wisconsin,0.8927459592737745
+Chippewa - Wisconsin,0.9198288784196506
+Clark - Wisconsin,0.9450267681573736
+Columbia - Wisconsin,0.8930170357002012
+Crawford - Wisconsin,0.9597079019635971
+Dane - Wisconsin,0.9817394271649842
+Dodge - Wisconsin,0.9096542808027015
+Door - Wisconsin,0.9016926196978392
+Douglas - Wisconsin,0.9471365920344544
+Dunn - Wisconsin,0.8972853800561615
+Eau Claire - Wisconsin,0.9396749175754364
+Florence - Wisconsin,0.8457638837418537
+Fond du Lac - Wisconsin,0.9298703889395076
+Forest - Wisconsin,0.9051030287583367
+Grant - Wisconsin,0.920608632500664
+Green - Wisconsin,0.9407022230955344
+Green Lake - Wisconsin,0.8693941828309538
+Iowa - Wisconsin,0.9406559993811232
+Iron - Wisconsin,0.9728711682324285
+Jackson - Wisconsin,0.866174262240009
+Jefferson - Wisconsin,0.9712446947552937
+Juneau - Wisconsin,0.9265777005433761
+Kenosha - Wisconsin,0.9682725976101513
+Kewaunee - Wisconsin,0.8930069480600349
+La Crosse - Wisconsin,0.9358983942988947
+Lafayette - Wisconsin,0.9624812148312584
+Langlade - Wisconsin,0.8130377879811533
+Lincoln - Wisconsin,0.8272031653233272
+Manitowoc - Wisconsin,0.9009053425090905
+Marathon - Wisconsin,0.9038552834750959
+Marinette - Wisconsin,0.9629092179965619
+Marquette - Wisconsin,0.8759619712243991
+Menominee - Wisconsin,0.8276118834335234
+Milwaukee - Wisconsin,0.9818221915455645
+Monroe - Wisconsin,0.934585710420077
+Oconto - Wisconsin,0.9060682203714671
+Oneida - Wisconsin,0.8958825143269846
+Out of WI - Wisconsin,nan
+Outagamie - Wisconsin,0.9150708574098583
+Ozaukee - Wisconsin,0.9791408889873274
+Pepin - Wisconsin,0.9092642876370727
+Pierce - Wisconsin,0.9705618733441085
+Polk - Wisconsin,0.9607983132804092
+Portage - Wisconsin,0.9270159759912586
+Price - Wisconsin,0.8275566680076994
+Racine - Wisconsin,0.9728077167448093
+Richland - Wisconsin,0.8234746077442692
+Rock - Wisconsin,0.9710473393929926
+Rusk - Wisconsin,0.8616845144107513
+Sauk - Wisconsin,0.9728428314566016
+Sawyer - Wisconsin,0.3027029873589938
+Shawano - Wisconsin,0.7959003920651125
+Sheboygan - Wisconsin,0.7113363842299859
+St. Croix - Wisconsin,0.7510396064410847
+Taylor - Wisconsin,0.8936082086803092
+Trempealeau - Wisconsin,0.9875752859194695
+Unassigned - Wisconsin,-0.08325463045197841
+Vernon - Wisconsin,0.9135343882132065
+Vilas - Wisconsin,0.8843545851260298
+Walworth - Wisconsin,0.9851566478255638
+Washburn - Wisconsin,0.9162633480634939
+Washington - Wisconsin,0.9640435135055498
+Waukesha - Wisconsin,0.9799150340266563
+Waupaca - Wisconsin,0.9464491163200376
+Waushara - Wisconsin,0.8788388248539745
+Winnebago - Wisconsin,0.8882427901886917
+Wood - Wisconsin,0.9305862942118044
+Albany - Wyoming,0.8646042295652894
+Big Horn - Wyoming,0.9014354667664133
+Campbell - Wyoming,0.9101772299170512
+Carbon - Wyoming,0.9643441757490305
+Converse - Wyoming,0.8718860685451357
+Crook - Wyoming,0.8735334110514988
+Fremont - Wyoming,0.962988472846116
+Goshen - Wyoming,0.9270867035556708
+Hot Springs - Wyoming,0.9388712418060227
+Johnson - Wyoming,0.8509473604254842
+Laramie - Wyoming,0.9783193064746878
+Lincoln - Wyoming,0.9624446852631021
+Natrona - Wyoming,0.9245210836612868
+Niobrara - Wyoming,0.7729152567832513
+Out of WY - Wyoming,nan
+Park - Wyoming,0.9589379077444424
+Platte - Wyoming,0.8072595878339446
+Sheridan - Wyoming,0.9098050330552222
+Sublette - Wyoming,0.9441069146657901
+Sweetwater - Wyoming,0.9813046325092794
+Teton - Wyoming,0.9862808056860872
+Uinta - Wyoming,0.9330138393461265
+Unassigned - Wyoming,0.0821547078577021
+Washakie - Wyoming,0.9677608518066538
+Weston - Wyoming,0.7750903932069051

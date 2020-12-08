@@ -1,0 +1,3 @@
+This file takes in the COVID_Dataset file and stores the relevant information (i.e the dates and the number of infections per day) into multiple different structures. 
+
+The dates and number of infections are initially stored into a string, then converted to lists and eventually converted into a Pandas DataFrame, which is then exported to seperate csv files. Due to the uncertainty in the needs from the analysis team: each of these structures are left in the file so that the team is able to decide which would be most beneficial for the analysis.

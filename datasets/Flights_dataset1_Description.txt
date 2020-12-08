@@ -1,0 +1,5 @@
+Flight_datasets1
+These datasets contain a list of all flights in the US for a given month. 
+Each row represents a flight. For each flight, the dataset contains the date, the city 
+and state of origin as well as of destination. The dataset also specifies if 
+each flight was cancelled or not.
